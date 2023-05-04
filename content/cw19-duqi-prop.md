@@ -1,5 +1,7 @@
 ---
-title: "DUQI (Document Utility and Quality Interrogator)"
+title: DUQI (Document Utility and Quality Interrogator)
+year: 2019
+type: collaborative-ideas
 author:
 - Douglas Lowe
 - Becky Arnold
@@ -7,9 +9,7 @@ author:
 - Adam Jackson
 - Diego Alonso-Álvarez
 - Carina Haupt
-year: 2019
-type: collaborative-ideas
-tags:
+tags: null
 ---
 ### Collaborations Workshop 2019 (CW19) #CollabW19          2019-04-01 to 2019-04-03
 

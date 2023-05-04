@@ -1,13 +1,13 @@
 ---
 title: Using Raspberry Pis to deliver Carpentries training in remote locations
+year: 2021
+type: hack-day
 author:
 - Becca Wilson
 - Irma Hafidz
 - Alison Clarke
 - Talia Caplan
 - Jannetta Steyn
-year: 2021
-type: hack-day
 tags:
 - software-carpentry
 - training

@@ -1,10 +1,10 @@
 ---
 title: Credit All
+year: 2021
+type: hack-day
 author:
 - Emma Karoune
 - Malin Sandstrom
-year: 2021
-type: hack-day
 tags:
 - credit
 - tool

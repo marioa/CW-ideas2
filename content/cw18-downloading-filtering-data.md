@@ -1,5 +1,7 @@
 ---
 title: Downloading and filtering datasets
+year: 2018
+type: collaborative-ideas
 author:
 - Vincent Knight
 - Thibault Clérice
@@ -11,8 +13,6 @@ author:
 - Louise Brown
 - Martin O'Reilly
 - Robert Maftei
-year: 2018
-type: collaborative-ideas
 tags:
 - data
 - download

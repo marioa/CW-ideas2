@@ -1,10 +1,10 @@
 ---
-title: "Escape room: Translating between RSEs and Arts & Humanities Researchers"
+title: 'Escape room: Translating between RSEs and Arts & Humanities Researchers'
+year: 2021
+type: hack-day
 author:
 - Laura Carter
 - Thibault Lestang
-year: 2021
-type: hack-day
 tags:
 - interdisciplinary
 - training

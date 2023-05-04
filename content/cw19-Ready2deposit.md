@@ -1,5 +1,7 @@
 ---
-title: "Ready to deposit?"
+title: Ready to deposit?
+year: 2019
+type: collaborative-ideas
 author:
 - Emily Bell
 - Dav Clark
@@ -7,9 +9,7 @@ author:
 - Robert Haines
 - Patrick McCann
 - Tom Russell
-year: 2019
-type: collaborative-ideas
-tags:
+tags: null
 ---
 ### Collaborations Workshop 2019 (CW19) #CollabW19          2019-04-01 to 2019-04-03
 

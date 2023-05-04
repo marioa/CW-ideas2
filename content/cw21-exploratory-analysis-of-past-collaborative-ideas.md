@@ -1,9 +1,8 @@
 ---
 title: Exploratory analysis of past Collaborative Ideas
-author:
-- Heather Turner
 year: 2021
 type: hack-day
+author: Heather Turner
 tags:
 - collaborations-workshop
 - data-analysis

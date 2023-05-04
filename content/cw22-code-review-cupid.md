@@ -1,5 +1,7 @@
 ---
 title: The Code Review Cupid
+year: 2022
+type: collaborative-ideas
 author:
 - Sherman Lo
 - Matthew Alexandrakis
@@ -7,8 +9,6 @@ author:
 - Felicity Anderson
 - Matthew Bluteau
 - Mario Antonioletti
-year: 2022
-type: collaborative-ideas
 tags:
 - rse
 - code-review

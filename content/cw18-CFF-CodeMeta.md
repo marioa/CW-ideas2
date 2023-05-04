@@ -1,9 +1,8 @@
 ---
-title: "Aligning the Citation File Format and CodeMeta"
-author:
-- Stephan Druskat
+title: Aligning the Citation File Format and CodeMeta
 year: 2018
 type: hack-ideas
+author: Stephan Druskat
 tags:
 - citation
 - CFF

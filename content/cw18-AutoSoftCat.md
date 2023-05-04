@@ -1,12 +1,12 @@
 ---
 title: AutoSoftCat
-author:
-- Dave McKain
-- Alys Brett 
-- Alexander Struck
-- Carloine Jay
 year: 2018
 type: collaborative-ideas
+author:
+- Dave McKain
+- Alys Brett
+- Alexander Struck
+- Carloine Jay
 tags:
 - discoverability
 - reuse

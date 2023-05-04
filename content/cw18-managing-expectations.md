@@ -1,5 +1,8 @@
 ---
-title: How to manage expectations while juggling different projects with overlapping deadlines and competing resources?
+title: How to manage expectations while juggling different projects with overlapping
+  deadlines and competing resources?
+year: 2018
+type: collaborative-ideas
 author:
 - Stephan Druskat
 - Robert Haines
@@ -9,8 +12,6 @@ author:
 - Brigitta Sipocz
 - Alejandra Gonzalez-Beltran
 - Raquel Alegre
-year: 2018
-type: collaborative-ideas
 tags:
 - rse
 - project

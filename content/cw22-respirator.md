@@ -1,12 +1,12 @@
 ---
-title: RESPIRATOR (Research Software Performance Indicators Really Acknowledging The Objective Reality)
-author:
-- Stephan Druskat
+title: RESPIRATOR (Research Software Performance Indicators Really Acknowledging The
+  Objective Reality)
 year: 2022
 type: hack-day
+author: Stephan Druskat
 tags:
 - rse
-- kpis
+- kpi
 - metrics
 ---
 

@@ -1,15 +1,14 @@
 ---
 title: Sustainability Deniers
+year: 2018
+type: collaborative-ideas
 author:
 - Martin Callaghan
 - Alice Harpole
 - Catherine Jones
 - Daniel Grose
 - David Pérez-Suárez
-year: 2018
-type: collaborative-ideas
-tags:
-- sustainability
+tags: sustainability
 ---
 
 <hr>

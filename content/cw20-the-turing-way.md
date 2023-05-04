@@ -1,13 +1,13 @@
 ---
-title: "The Turing Way"
+title: The Turing Way
+year: 2020
+type: collaborative-ideas
 author:
 - Sarah Gibson
 - Stephan Druskat
 - Louise Brown
 - Jurriaan H.Spaaks
 - Sam Mangham
-year: 2020
-type: collaborative-ideas
 tags:
 - training
 - remote

@@ -1,9 +1,8 @@
 ---
 title: Storyboarding Sustainability
-author:
-- Emma Rand
 year: 2020
 type: hack-day
+author: Emma Rand
 tags:
 - sustainability
 - storyboards

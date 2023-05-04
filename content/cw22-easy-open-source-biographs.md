@@ -1,15 +1,15 @@
 ---
 title: Easy Open Source Bio-Graphs
+year: 2022
+type: collaborative-ideas
 author:
 - Mark Basham
-- Gemma Turon 
+- Gemma Turon
 - Sarah Forrester
 - Emma Karoune
 - Vicky Hellon
 - Katy Brown
-year: 2022
-type: collaborative-ideas
-tags: 
+tags:
 - biology
 - biological-sciences
 - open-source

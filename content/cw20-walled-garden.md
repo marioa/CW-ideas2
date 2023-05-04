@@ -1,9 +1,8 @@
 ---
 title: Ticket to Data Wall Garden
-author:
-- Raniere Silva
 year: 2020
 type: hack-day
+author: Raniere Silva
 tags:
 - walled-garden
 - cloud

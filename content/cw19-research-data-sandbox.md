@@ -1,14 +1,14 @@
 ---
-title: "The Research Data Sandbox"
+title: The Research Data Sandbox
+year: 2019
+type: collaborative-ideas
 author:
 - Sorrel Harriet
 - Melodee Beals
 - Lucia Michielin
 - Steve Crouch
 - Mosè Giordano
-year: 2019
-type: collaborative-ideas
-tags:
+tags: null
 ---
 ### Collaborations Workshop 2019 (CW19) #CollabW19          2019-04-01 to 2019-04-03
 

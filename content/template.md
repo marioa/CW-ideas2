@@ -1,10 +1,8 @@
 ---
-title: 
-author:
-- 
+title: null
 year: 2020
 type: hack-day
-tags:
-- 
 draft: true
+author: null
+tags: null
 ---

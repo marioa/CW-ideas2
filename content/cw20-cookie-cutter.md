@@ -1,14 +1,14 @@
 ---
-title: "Online Community Cookie Cutter c<sup>3</sup>"
+title: Online Community Cookie Cutter c<sup>3</sup>
+year: '2020'
+type: collaborative-ideas
 author:
 - Will Furnass
 - Colin Sauze
 - Louise Bowler
 - Malvika Sharan
-- Jo Leng
+- Joanna Leng
 - Mateusz Kuzak
-year: "2020"
-type: collaborative-ideas
 tags:
 - training
 - guidance

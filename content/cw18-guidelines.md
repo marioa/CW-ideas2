@@ -1,5 +1,7 @@
 ---
-title: "Guidelines for research library users and providers"
+title: Guidelines for research library users and providers
+year: 2018
+type: collaborative-ideas
 author:
 - Vincent Knight
 - Selina Aragon
@@ -12,8 +14,6 @@ author:
 - Louise Brown
 - Martin O'Reilly
 - Robert Maftei
-year: 2018
-type: collaborative-ideas
 tags:
 - guidelines
 - metadata

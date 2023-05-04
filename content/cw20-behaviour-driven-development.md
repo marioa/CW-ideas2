@@ -1,13 +1,13 @@
 ---
-title: "Adding Behaviour Driven Development to Exploratory Research Notebooks"
+title: Adding Behaviour Driven Development to Exploratory Research Notebooks
+year: 2020
+type: collaborative-ideas
 author:
 - Jon Massey
 - Ben Krikler
 - Anastasis Georgoulas
 - Matthew Bluteau
 - Steve Crouch
-year: 2020
-type: collaborative-ideas
 tags:
 - notebooks
 - testing

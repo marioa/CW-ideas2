@@ -1,15 +1,15 @@
 ---
-title: "Infrastructure to support following up after a workshop / training session"
+title: Infrastructure to support following up after a workshop / training session
+year: 2019
+type: collaborative-ideas
 author:
 - Aleksandra Nenadic
 - Robin Long
 - Louise Bowler
-- Jess Ward 
+- Jess Ward
 - Ilektra Christidi
 - James Graham
-year: 2019
-type: collaborative-ideas
-tags:
+tags: null
 ---
 o### Collaborations Workshop 2019 (CW19) #CollabW19          2019-04-01 to 2019-04-03
 

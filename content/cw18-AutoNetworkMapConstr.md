@@ -1,9 +1,8 @@
 ---
-title: "Automated Network Map construction"
-author:
-- Diana Suleimenova
+title: Automated Network Map construction
 year: 2018
 type: hack-ideas
+author: Diana Suleimenova
 tags:
 - network-maps
 - refugees

@@ -1,9 +1,8 @@
 ---
 title: How do we facilitate effective collaboration in a virtual event?
-author:
-- Emmy Tsang
 year: 2020
 type: hack-day
+author: Emmy Tsang
 tags:
 - virtual-event
 - collaboration

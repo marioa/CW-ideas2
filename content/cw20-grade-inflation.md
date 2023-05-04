@@ -1,13 +1,13 @@
 ---
-title: "Does grade inflation exist?"
+title: Does grade inflation exist?
+year: '2020'
+type: collaborative-ideas
 author:
 - Jez Cope
 - Philip Grylls
 - Pablo Bernabeu
 - Frances Cooper
 - Tania Allard
-year: "2020"
-type: collaborative-ideas
 tags:
 - research
 - data-analysis

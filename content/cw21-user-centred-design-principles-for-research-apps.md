@@ -1,14 +1,13 @@
 ---
 title: User centred design principles for research apps / citizen science
+year: 2021
+type: collaborative-ideas
 author:
 - Jonathan Frawley
 - Gary Leeming
 - Jez Cope
 - Kirsty Pringle
-year: 2021
-type: collaborative-ideas
-tags:
-- training
+tags: training
 ---
 
 ### CW21 - 2021-03-30

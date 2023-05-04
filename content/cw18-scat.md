@@ -1,11 +1,11 @@
 ---
-title: "SCAT (STEM Career Advising Tool)"
+title: SCAT (STEM Career Advising Tool)
+year: 2018
+type: collaborative-ideas
 author:
 - Mark Woodbridge
 - Joanna Leng
 - Alexander Konovalov
-year: 2018
-type: collaborative-ideas
 tags:
 - stem
 - tool

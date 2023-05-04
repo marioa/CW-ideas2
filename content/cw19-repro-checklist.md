@@ -1,13 +1,13 @@
 ---
-title: "Best Practice Checklist"
+title: Best Practice Checklist
+year: 2019
+type: collaborative-ideas
 author:
 - Richard Gilham
 - Emmy Tsang
 - Anna Krystalli
 - David Gillespie
-year: 2019
-type: collaborative-ideas
-tags:
+tags: null
 ---
 
 ### Collaborations Workshop 2019 (CW19) #CollabW19          2019-04-01 to 2019-04-03

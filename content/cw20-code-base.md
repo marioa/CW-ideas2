@@ -1,9 +1,8 @@
 ---
 title: How Wrong Is The Research Code Base?
-author:
-- Dan Hobley
 year: 2020
 type: hack-day
+author: Dan Hobley
 tags:
 - software
 - development

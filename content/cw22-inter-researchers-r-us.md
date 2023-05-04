@@ -1,5 +1,7 @@
 ---
 title: Interdisciplinary Researchers ‘R’ Us
+year: 2022
+type: collaborative-ideas
 author:
 - Abhishek Dasgupta
 - David Wilby
@@ -8,8 +10,6 @@ author:
 - Yo Yehudi
 - Yadira Sanchez
 - Colin Sauze
-year: 2022
-type: collaborative-ideas
 tags:
 - registry
 - rse

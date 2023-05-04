@@ -1,10 +1,9 @@
 ---
-title: 'A "How to cite"/”Cite this” button for GitHub'
-author:
-- Stephan Druskat
+title: A "How to cite"/”Cite this” button for GitHub
 year: 2019
 type: collaborative-ideas
-tags:
+author: Stephan Druskat
+tags: null
 ---
 ### Collaborations Workshop 2019 (CW19) #CollabW19  2019-04-01 to 2019-04-03
 

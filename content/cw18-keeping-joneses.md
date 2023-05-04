@@ -1,14 +1,15 @@
 ---
-title: "Keeping up with the Joneses: Providing evidence for software and data citations in published papers"
+title: 'Keeping up with the Joneses: Providing evidence for software and data citations
+  in published papers'
+year: 2018
+type: collaborative-ideas
 author:
 - Kirstie Whitaker
 - Ilektra Christidi
 - Andrew Walker
 - Shoaib Sufi
-year: 2018
-type: collaborative-ideas
 tags:
-- citations
+- citation
 - papers
 - evidence
 ---

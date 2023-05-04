@@ -1,15 +1,15 @@
 ---
-title: "Interoperability & Continuous Integration"
+title: Interoperability & Continuous Integration
+year: 2019
+type: collaborative-ideas
 author:
 - Kirstie Whitaker
 - Mosè Giordano
 - Richard Gilham
-- Aleksandra Nenadic,
+- Aleksandra Nenadic
 - Alexander Konovalov
 - Adrian Castravete
-year: 2019
-type: collaborative-ideas
-tags:
+tags: null
 ---
 ### Collaborations Workshop 2019 (CW19) #CollabW19          2019-04-01 to 2019-04-03
 

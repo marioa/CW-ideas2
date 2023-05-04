@@ -1,0 +1,958 @@
+{
+  "rows" : [
+{
+  "title" : "Dealing with Legacy Code",
+  "year" : 2020,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw20-legacy-code.md",
+  "draft" : null,
+  "author" : "Patricia Herterich|Catherine Smith|Christopher Fullerton|Raniere Silva|Philipp Boersch-Supan",
+  "tags" : "legacy-code|training|reproducibility"
+},
+{
+  "title" : "Open Source Covid Analysis of References (OSCAR)",
+  "year" : 2021,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw21-oscar.md",
+  "draft" : null,
+  "author" : "Michelle Barker|Shoaib Sufi|Daniel S. Katz|Carina Haupt|Callum Rollo",
+  "tags" : "covid|open-source"
+},
+{
+  "title" : "Maintainable Tutorials Made Quickly",
+  "year" : 2019,
+  "type" : "hack-ideas",
+  "filename" : "content/cw19-tutorials-quickly.md",
+  "draft" : null,
+  "author" : "Adam Jackson",
+  "tags" : null
+},
+{
+  "title" : "HowDescribedIs",
+  "year" : 2021,
+  "type" : "hack-day",
+  "filename" : "content/cw21-howdescribedis.md",
+  "draft" : null,
+  "author" : "Faruk Diblen|Daniel Garijo|Carlos Martinez|Matthew Bluteau|Paddy McCann",
+  "tags" : "tool|extension|reproducibility|citation"
+},
+{
+  "title" : "Netflix of libraries",
+  "year" : 2019,
+  "type" : "hack-ideas",
+  "filename" : "content/cw19-netflix-libraries.md",
+  "draft" : null,
+  "author" : "Ben Krikler",
+  "tags" : null
+},
+{
+  "title" : "Keeping up with the Joneses: Providing evidence for software and data citations in published papers",
+  "year" : 2018,
+  "type" : "hack-ideas",
+  "filename" : "content/cw18-ProvidingEvidenceForSoftwareAndDataCitationsInPublishedPapers.md",
+  "draft" : null,
+  "author" : "Kirstie Whitaker",
+  "tags" : null
+},
+{
+  "title" : "Code Review Cupid",
+  "year" : 2022,
+  "type" : "hack-day",
+  "filename" : "content/cw22-code-review-cupid-hack.md",
+  "draft" : null,
+  "author" : "Felicity Anderson|Sherman Lo|Dmitry Nikolaenko",
+  "tags" : "rse|code-review"
+},
+{
+  "title" : "CFF in the wild - analysing software citation metadata file usage",
+  "year" : 2022,
+  "type" : "hack-day",
+  "filename" : "content/cw22-cff-in-the-wild.md",
+  "draft" : null,
+  "author" : "Stephan Druskat",
+  "tags" : "FAIR|CFF"
+},
+{
+  "title" : "Bursting the Bubble: Teaching PIs the value of good code",
+  "year" : 2021,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw21-bursting-the-bubble.md",
+  "draft" : null,
+  "author" : "Marion Weinzierl|Sam Harrison|Arielle Bennett|Steve Crouch|Mark Turner",
+  "tags" : "guidance|good-practice"
+},
+{
+  "title" : "Exploratory analysis of past Collaborative Ideas",
+  "year" : 2021,
+  "type" : "hack-day",
+  "filename" : "content/cw21-exploratory-analysis-of-past-collaborative-ideas.md",
+  "draft" : null,
+  "author" : "Heather Turner",
+  "tags" : "collaborations-workshop|data-analysis"
+},
+{
+  "title" : "GitHub annotator/failure map",
+  "year" : 2019,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw19-gh-annotator.md",
+  "draft" : null,
+  "author" : "Ilektra Christidi",
+  "tags" : null
+},
+{
+  "title" : "How to map out software and data skills lessons like Duolingo",
+  "year" : 2019,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw19-map-skills.md",
+  "draft" : null,
+  "author" : "Daniel S. Katz|Jeremy Cohen|Neil Chue Hong|Olivia Mitchell|Victor Koppejan",
+  "tags" : null
+},
+{
+  "title" : "Carpentries platform to support translations",
+  "year" : 2018,
+  "type" : "hack-ideas",
+  "filename" : "content/cw18-CarpentriesPlatformToSupportTranslations.md",
+  "draft" : null,
+  "author" : "David Pérez-Suárez",
+  "tags" : null
+},
+{
+  "title" : "How Wrong Is The Research Code Base?",
+  "year" : 2020,
+  "type" : "hack-day",
+  "filename" : "content/cw20-code-base.md",
+  "draft" : null,
+  "author" : "Dan Hobley",
+  "tags" : "software|development"
+},
+{
+  "title" : "Storyboarding Sustainability",
+  "year" : 2020,
+  "type" : "hack-day",
+  "filename" : "content/cw20-storyboarding-sustainability-hack.md",
+  "draft" : null,
+  "author" : "Emma Rand",
+  "tags" : "sustainability|storyboards"
+},
+{
+  "title" : "RESPIRATOR (Research Software Performance Indicators Really Acknowledging The Objective Reality)",
+  "year" : 2022,
+  "type" : "hack-day",
+  "filename" : "content/cw22-respirator.md",
+  "draft" : null,
+  "author" : "Stephan Druskat",
+  "tags" : "rse|kpi|metrics"
+},
+{
+  "title" : "Coding Confessions",
+  "year" : 2021,
+  "type" : "hack-day",
+  "filename" : "content/cw21-coding-confessions.md",
+  "draft" : null,
+  "author" : "Colin Sauze",
+  "tags" : "workshop|training"
+},
+{
+  "title" : "Sustainability Deniers",
+  "year" : 2018,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw18-sustainability-deniers.md",
+  "draft" : null,
+  "author" : "Martin Callaghan|Alice Harpole|Catherine Jones|Daniel Grose|David Pérez-Suárez",
+  "tags" : "sustainability"
+},
+{
+  "title" : "Checklists for open reproducible research",
+  "year" : 2019,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw19-checklists.md",
+  "draft" : null,
+  "author" : "Anna Krystalli|Richard Gilham|Emmy Tsang|David Gillespie",
+  "tags" : null
+},
+{
+  "title" : "Productivity Approximator",
+  "year" : 2018,
+  "type" : "hack-ideas",
+  "filename" : "content/cw18-ProductivityApproximator.md",
+  "draft" : null,
+  "author" : "Melodee Beals",
+  "tags" : null
+},
+{
+  "title" : "Developing scenarios to help nurture Inclusive Research Leaders",
+  "year" : 2022,
+  "type" : "hack-ideas",
+  "filename" : "content/cw22-inclusive-research-leaders.md",
+  "draft" : null,
+  "author" : "Neil Chue Hong|Tracy Teal",
+  "tags" : "leadership|skills|inclusion"
+},
+{
+  "title" : "Terminal History Sharing",
+  "year" : 2019,
+  "type" : "hack-ideas",
+  "filename" : "content/cw19-TermShare.md",
+  "draft" : null,
+  "author" : "Jason Gates",
+  "tags" : null
+},
+{
+  "title" : "Let’s make some better manuscript templates for the Journal of Open Research Software",
+  "year" : 2020,
+  "type" : "hack-day",
+  "filename" : "content/cw20-improve-manuscript.md",
+  "draft" : null,
+  "author" : "Philipp Boersch-Supan",
+  "tags" : "dissemination|peer-review"
+},
+{
+  "title" : "Creating a Lessons Roadmap and Profiency Framework for Software and Data Training",
+  "year" : 2019,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw19-LessonsRoadmap.md",
+  "draft" : null,
+  "author" : "Victor Koppejan|Jeremy Cohen",
+  "tags" : null
+},
+{
+  "title" : "Interdisciplinary Glossary of Glossaries",
+  "year" : 2022,
+  "type" : "hack-day",
+  "filename" : "content/cw22-interdisciplinary-glossary-of-glossaries.md",
+  "draft" : null,
+  "author" : "Alison Clarke|Catherine Smith|James Baker|Anne Lee Steele|Jez Cope",
+  "tags" : "glossaries"
+},
+{
+  "title" : "Identify new roles within Academia",
+  "year" : 2019,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw19-identify-new-roles.md",
+  "draft" : null,
+  "author" : "Rachael Ainsworth|Simon Hettrick|Claire Wyatt|Gabriel Hanganu|Chris Mentzel",
+  "tags" : null
+},
+{
+  "title" : "Online Community Cookie Cutter c<sup>3</sup>",
+  "year" : "2020",
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw20-cookie-cutter.md",
+  "draft" : null,
+  "author" : "Will Furnass|Colin Sauze|Louise Bowler|Malvika Sharan|Joanna Leng|Mateusz Kuzak",
+  "tags" : "training|guidance"
+},
+{
+  "title" : "Carpentries-style Lesson on R’s Bug Tracking Process",
+  "year" : 2022,
+  "type" : "hack-day",
+  "filename" : "content/cw22-R-lessons-bug-tracking.md",
+  "draft" : null,
+  "author" : "Saranjeet Kaur Bhogal|Heather Turner",
+  "tags" : "R|Carpentries"
+},
+{
+  "title" : "Software reporting guidelines",
+  "year" : 2019,
+  "type" : "hack-ideas",
+  "filename" : "content/cw19-soft-reporting.md",
+  "draft" : null,
+  "author" : "Alexander Konovalov",
+  "tags" : null
+},
+{
+  "title" : "RSE Careers",
+  "year" : 2019,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw19-HERA4RSEs.md",
+  "draft" : null,
+  "author" : "Jason M. Gates|Joanna Leng|Catherine Smith|Sarah Gibson|Colin Sauze|Alexander Konovalov",
+  "tags" : null
+},
+{
+  "title" : "Key Performance Indicators for Research Software Engineering Output",
+  "year" : 2022,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw22-kpis4rse.md",
+  "draft" : null,
+  "author" : "Stephan Druskat|Daniel S. Katz|Heather Turner|Vashti Galpin|Amal Alghamdi|Jannetta Steyn|Daniel S. Katz|James Baker|Martin Donnelly|Melodee Beals|Richard Adams|Stephen Dowsland",
+  "tags" : "kpi|rse|documentation|credit"
+},
+{
+  "title" : null,
+  "year" : 2018,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw18-crediting-documentation.md",
+  "draft" : null,
+  "author" : null,
+  "tags" : null
+},
+{
+  "title" : "Streamlining JupyterLab as a teaching tool",
+  "year" : 2018,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw18-streaming-jupyterlab.md",
+  "draft" : null,
+  "author" : "Tania Allard|Matt Williams|Mark Dawson|Jeremy Cohen|Sam Mangham|Robin Long",
+  "tags" : "jupyterlab|teaching"
+},
+{
+  "title" : "What is my contribution",
+  "year" : 2019,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw19-what-is-my-contribution.md",
+  "draft" : null,
+  "author" : "Patricia Herterich|Michael Allaway|Alessandro Felder|Daina Bouqui|Louise Brown|Raniere Silva",
+  "tags" : null
+},
+{
+  "title" : "DUQI (Documentation Utility & Quality Interrogator)",
+  "year" : 2019,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw19-duqi.md",
+  "draft" : null,
+  "author" : "Becky Arnold",
+  "tags" : null
+},
+{
+  "title" : "Aligning the Citation File Format and CodeMeta",
+  "year" : 2018,
+  "type" : "hack-ideas",
+  "filename" : "content/cw18-CFF-CodeMeta.md",
+  "draft" : null,
+  "author" : "Stephan Druskat",
+  "tags" : "citation|CFF|CodeMeta"
+},
+{
+  "title" : "DEPTH: Developer error/problem treasure hunt!",
+  "year" : 2021,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw21-depth.md",
+  "draft" : null,
+  "author" : "Matt Cannon|Dominic Kempf|Matthew Bluteau|Robin Wilson|Paddy McCann",
+  "tags" : "training|rse"
+},
+{
+  "title" : "Ticket to Data Wall Garden",
+  "year" : 2020,
+  "type" : "hack-day",
+  "filename" : "content/cw20-walled-garden.md",
+  "draft" : null,
+  "author" : "Raniere Silva",
+  "tags" : "walled-garden|cloud"
+},
+{
+  "title" : "Col-Laboratory",
+  "year" : 2019,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw19-col-lab.md",
+  "draft" : null,
+  "author" : "Niall Beard",
+  "tags" : null
+},
+{
+  "title" : "ASAP - Automated Software-Assisted Provisioning",
+  "year" : 2018,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw18-asap.md",
+  "draft" : null,
+  "author" : "Sam Cox|Yo Yehudi|Carina Haupt|Robert Haines|Stephan Druskat|John Robinson",
+  "tags" : "provisioning|checklists"
+},
+{
+  "title" : "Using Raspberry Pis to deliver Carpentries training in remote locations",
+  "year" : 2021,
+  "type" : "hack-day",
+  "filename" : "content/cw21-using-raspberry-pis-to-deliver-carpentries-training-in-remote-locations.md",
+  "draft" : null,
+  "author" : "Becca Wilson|Irma Hafidz|Alison Clarke|Talia Caplan|Jannetta Steyn",
+  "tags" : "software-carpentry|training|raspberry-pi"
+},
+{
+  "title" : null,
+  "year" : 2020,
+  "type" : "hack-day",
+  "filename" : "content/template.md",
+  "draft" : true,
+  "author" : null,
+  "tags" : null
+},
+{
+  "title" : "RSE2_D2",
+  "year" : 2020,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw20-rse2_d2.md",
+  "draft" : null,
+  "author" : "Yo Yehudi|David Pérez-Suárez|Blair Archibald|Marion Weinzierl|Vahid Garousi",
+  "tags" : "twitter|training|rse"
+},
+{
+  "title" : "How do we facilitate effective collaboration in a virtual event?",
+  "year" : 2020,
+  "type" : "hack-day",
+  "filename" : "content/cw20-facilitating-virtual-event-collab.md",
+  "draft" : null,
+  "author" : "Emmy Tsang",
+  "tags" : "virtual-event|collaboration"
+},
+{
+  "title" : "Storyboarding Sustainability",
+  "year" : 2020,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw20-storyboarding-sustainability.md",
+  "draft" : null,
+  "author" : "Emma Rand|Matthew West|Laurence Brown|Mario Antonioletti|Alison Clarke",
+  "tags" : "video|pi|training"
+},
+{
+  "title" : "The Turing Way",
+  "year" : 2020,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw20-the-turing-way.md",
+  "draft" : null,
+  "author" : "Sarah Gibson|Stephan Druskat|Louise Brown|Jurriaan H.Spaaks|Sam Mangham",
+  "tags" : "training|remote|collaboration"
+},
+{
+  "title" : "Macavity",
+  "year" : 2021,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw21-macavity.md",
+  "draft" : null,
+  "author" : "Louise Chisholm|Malin Sandstrom|Florian Mannseicher|Emma Karoune|Andrew Brown",
+  "tags" : "rse|skills"
+},
+{
+  "title" : "Tools to recognise underlying software infrastructure visible and funded",
+  "year" : 2021,
+  "type" : "hack-day",
+  "filename" : "content/cw21-tools-to-recognise-underlying-software-infrastructure-visible-and-funded.md",
+  "draft" : null,
+  "author" : "Louise Chisholm",
+  "tags" : "credit|funding"
+},
+{
+  "title" : "Automated Network Map construction",
+  "year" : 2018,
+  "type" : "hack-ideas",
+  "filename" : "content/cw18-AutoNetworkMapConstr.md",
+  "draft" : null,
+  "author" : "Diana Suleimenova",
+  "tags" : "network-maps|refugees"
+},
+{
+  "title" : "iFortran Linter",
+  "year" : 2018,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw18-ifortran-linter.md",
+  "draft" : null,
+  "author" : "Sammie Buzzard|Nikoleta E Glynatsi|Mark Turner|Ed Bennett|Stephen Crouch",
+  "tags" : "ifortran|lint"
+},
+{
+  "title" : "Code is Science Manifesto",
+  "year" : 2018,
+  "type" : "hack-ideas",
+  "filename" : "content/cw18-CodeIsScienceManifesto.md",
+  "draft" : null,
+  "author" : "Yo Yehudi",
+  "tags" : null
+},
+{
+  "title" : "Koko",
+  "year" : 2021,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw21-koko.md",
+  "draft" : null,
+  "author" : "Stephan Druskat|Sammie Buzzard|Bailey Harrington|Leyla Jael G. Castro|Abhishek Dasgupta",
+  "tags" : "skills|training"
+},
+{
+  "title" : "Automating Screenshots for Documentation",
+  "year" : 2019,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw19-AutomatingScreenshots.md",
+  "draft" : null,
+  "author" : "Colin Sauze",
+  "tags" : null
+},
+{
+  "title" : "Hi-Brid!",
+  "year" : 2022,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw22-hi-brid.md",
+  "draft" : null,
+  "author" : "Malvika Sharan|Hannah Williams|Neil Chue Hong|Hugo Gruson|Adam Jackson|Kim Martin",
+  "tags" : "hybrid-working|inclusion"
+},
+{
+  "title" : "Choose your own research-software adventure",
+  "year" : 2022,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw22-adventure.md",
+  "draft" : null,
+  "author" : "Chris Jochem|Achintya Rao",
+  "tags" : "research-adventure|research-journey"
+},
+{
+  "title" : "AutoSoftCat",
+  "year" : 2018,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw18-AutoSoftCat.md",
+  "draft" : null,
+  "author" : "Dave McKain|Alys Brett|Alexander Struck|Carloine Jay",
+  "tags" : "discoverability|reuse|collaboration|api"
+},
+{
+  "title" : "End of Life Plans for Software",
+  "year" : 2021,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw21-assure-software-sustainability.md",
+  "draft" : null,
+  "author" : "Eli Chadwick|Iain Barrass|Alice Minotto|Yo Yehudi",
+  "tags" : "sustainability|reproducibility"
+},
+{
+  "title" : "Weather Log",
+  "year" : 2022,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw22-weather-log.md",
+  "draft" : null,
+  "author" : "Luke Abraham|Sam Harrison|Sadie Bartholomew|David Pérez-Suárez|Douglas Lowe|Kirsty Pringle|Dominic Orchard",
+  "tags" : "weather|climate|models"
+},
+{
+  "title" : "Squashing conceptual bugs when computational bugs have been exterminated",
+  "year" : 2022,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw22-squashing-conceptual-bugs.md",
+  "draft" : null,
+  "author" : "Aman Goel|Juncheng E|Iain Barrass|Jesper Dramsch|Eli Chadwick|Jiada Tu",
+  "tags" : "good-practice|conceptual-bugs"
+},
+{
+  "title" : "State of the Art",
+  "year" : 2020,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw20-state-of-the-art.md",
+  "draft" : null,
+  "author" : "Dan Hobley|Paddy McCann|Emily Bell|Jonathan Frawley|Reka Solymosi|Iain Barrass",
+  "tags" : "training"
+},
+{
+  "title" : "Hover Eels",
+  "year" : 2019,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw19-hover-eels.md",
+  "draft" : null,
+  "author" : "Jakob S. Jørgensen|Lucy Whalley|David Pérez-Suárez|Sarah Stewart|Benjamin Lee",
+  "tags" : null
+},
+{
+  "title" : "Code-literate peer-review for everyone",
+  "year" : 2019,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw19-code-review.md",
+  "draft" : null,
+  "author" : "Alessandro Felder|Victor Koppejan",
+  "tags" : null
+},
+{
+  "title" : "Reproducibility and Collaboration Challenges in interactive / exploratory research",
+  "year" : 2019,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw19-repro-challenges.md",
+  "draft" : null,
+  "author" : "Adam Jackson|Dav Clark|Adam Jackson|Becky Arnold|Ben Krikler|Joanna Leng",
+  "tags" : null
+},
+{
+  "title" : "Downloading and filtering datasets",
+  "year" : 2018,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw18-downloading-filtering-data.md",
+  "draft" : null,
+  "author" : "Vincent Knight|Thibault Clérice|Henry Wilde|Anastasis Georgoulas|Adrian-Tudor Panescu|Aleksandra Nenadic|Tobias Schlauch|Louise Brown|Martin O'Reilly|Robert Maftei",
+  "tags" : "data|download|filter"
+},
+{
+  "title" : "Improving data visualization literacy",
+  "year" : 2021,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw21-improving-visualisation-literacy.md",
+  "draft" : null,
+  "author" : "Connie Clare|Louise Brown|Sam Haynes|Will Furnass|Patricia Herterich",
+  "tags" : "training|visualisation"
+},
+{
+  "title" : "Interdisciplinary Researchers ‘R’ Us",
+  "year" : 2022,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw22-inter-researchers-r-us.md",
+  "draft" : null,
+  "author" : "Abhishek Dasgupta|David Wilby|Ben Krikler|Nadine Spychala|Yo Yehudi|Yadira Sanchez|Colin Sauze",
+  "tags" : "registry|rse"
+},
+{
+  "title" : "Message in e-Bottle: work more effectively with ephemeral teams across timezones",
+  "year" : 2020,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw20-message-in-eBottle.md",
+  "draft" : null,
+  "author" : "Shoaib Sufi|Carlos Martinez|Alessandro Felder|Emmy Tsang|Aleksandra Nenadic",
+  "tags" : "team-work|collaboration"
+},
+{
+  "title" : "Choose-a-Visualisation",
+  "year" : 2018,
+  "type" : "hack-ideas",
+  "filename" : "content/cw18-choose-a-Visualisation.md",
+  "draft" : null,
+  "author" : "Neil Chue Hong",
+  "tags" : null
+},
+{
+  "title" : "Best Practice Checklist",
+  "year" : 2019,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw19-repro-checklist.md",
+  "draft" : null,
+  "author" : "Richard Gilham|Emmy Tsang|Anna Krystalli|David Gillespie",
+  "tags" : null
+},
+{
+  "title" : "Geospatial metadata sharing",
+  "year" : 2018,
+  "type" : "hack-ideas",
+  "filename" : "content/cw18-GeospatialMetadataSharing.md",
+  "draft" : null,
+  "author" : "Stuart Grieve",
+  "tags" : null
+},
+{
+  "title" : "Infrastructure to support following up after a workshop / training session",
+  "year" : 2019,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw19-AfterWorkshopSupport.md",
+  "draft" : null,
+  "author" : "Aleksandra Nenadic|Robin Long|Louise Bowler|Jess Ward|Ilektra Christidi|James Graham",
+  "tags" : null
+},
+{
+  "title" : "Software citation videos (to understand why and how to make your software citable)",
+  "year" : 2021,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw21-software-citation-videos.md",
+  "draft" : null,
+  "author" : "Morane Gruenpeter|Mario Antonioletti|Emmy Tsang|Esther Plomp",
+  "tags" : "video|training|citation"
+},
+{
+  "title" : "Enabling analysis of research software: Creating an enhanced research software corpus",
+  "year" : 2021,
+  "type" : "hack-day",
+  "filename" : "content/cw21-creating-an-enhanced-research-software-corpus.md",
+  "draft" : null,
+  "author" : "Neil Chue Hong|Stephan Druskat",
+  "tags" : "data-analysis|research"
+},
+{
+  "title" : "The Research Data Sandbox",
+  "year" : 2019,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw19-research-data-sandbox.md",
+  "draft" : null,
+  "author" : "Sorrel Harriet|Melodee Beals|Lucia Michielin|Steve Crouch|Mosè Giordano",
+  "tags" : null
+},
+{
+  "title" : "SCAT (STEM Career Advising Tool)",
+  "year" : 2018,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw18-scat.md",
+  "draft" : null,
+  "author" : "Mark Woodbridge|Joanna Leng|Alexander Konovalov",
+  "tags" : "stem|tool"
+},
+{
+  "title" : "Conferencing 3.0: ensuring equality for in-person and online participants",
+  "year" : "2020",
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw20-conferencing3.0.md",
+  "draft" : null,
+  "author" : "Emily Lewis|Esther Asef|Radovan Bast|Bezaye Tesfaye|Neil Chue Hong|Richard Darst",
+  "tags" : "conference|collaborations-workshop|covid"
+},
+{
+  "title" : "Running a dugnad in a research group",
+  "year" : 2021,
+  "type" : "hack-ideas",
+  "filename" : "content/cw21-running-a-dugnad-in-rg.md",
+  "draft" : null,
+  "author" : "Sarah Gibson|Sarah Jaffa|Warrick Ball|Neil Chue Hong",
+  "tags" : "training|astrophysics"
+},
+{
+  "title" : "Does grade inflation exist?",
+  "year" : "2020",
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw20-grade-inflation.md",
+  "draft" : null,
+  "author" : "Jez Cope|Philip Grylls|Pablo Bernabeu|Frances Cooper|Tania Allard",
+  "tags" : "research|data-analysis"
+},
+{
+  "title" : "The Code Review Cupid",
+  "year" : 2022,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw22-code-review-cupid.md",
+  "draft" : null,
+  "author" : "Sherman Lo|Matthew Alexandrakis|Dmitry Nikolaenko|Felicity Anderson|Matthew Bluteau|Mario Antonioletti",
+  "tags" : "rse|code-review"
+},
+{
+  "title" : "The Docutor button",
+  "year" : 2019,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw19-docutor.md",
+  "draft" : null,
+  "author" : "Cerys Lewis|Connah Kendrick|Kirstie Whitaker|Adrian Castravete",
+  "tags" : null
+},
+{
+  "title" : "Adding Behaviour Driven Development to Exploratory Research Notebooks",
+  "year" : 2020,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw20-behaviour-driven-development.md",
+  "draft" : null,
+  "author" : "Jon Massey|Ben Krikler|Anastasis Georgoulas|Matthew Bluteau|Steve Crouch",
+  "tags" : "notebooks|testing"
+},
+{
+  "title" : "Is your online training material accessible?",
+  "year" : 2019,
+  "type" : "hack-ideas",
+  "filename" : "content/cw19-accessibility.md",
+  "draft" : null,
+  "author" : "David Pérez-Suárez",
+  "tags" : null
+},
+{
+  "title" : "Slack overflow: getting permanent docs from instant messaging",
+  "year" : 2019,
+  "type" : "hack-ideas",
+  "filename" : "content/cw19-docs-from-messaging.md",
+  "draft" : null,
+  "author" : "Ben Krikler",
+  "tags" : null
+},
+{
+  "title" : "Credit All",
+  "year" : 2021,
+  "type" : "hack-day",
+  "filename" : "content/cw21-credit-all.md",
+  "draft" : null,
+  "author" : "Emma Karoune|Malin Sandstrom",
+  "tags" : "credit|tool"
+},
+{
+  "title" : "Interoperability & Continuous Integration",
+  "year" : 2019,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw19-interoperability-integration.md",
+  "draft" : null,
+  "author" : "Kirstie Whitaker|Mosè Giordano|Richard Gilham|Aleksandra Nenadic|Alexander Konovalov|Adrian Castravete",
+  "tags" : null
+},
+{
+  "title" : "User centred design principles for research apps / citizen science",
+  "year" : 2021,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw21-user-centred-design-principles-for-research-apps.md",
+  "draft" : null,
+  "author" : "Jonathan Frawley|Gary Leeming|Jez Cope|Kirsty Pringle",
+  "tags" : "training"
+},
+{
+  "title" : "CarpenTREE",
+  "year" : 2019,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw19-CarpenTREE.md",
+  "draft" : null,
+  "author" : "Arshad Emmambux|Patricia Herterich|Victor Koppejan|Louise Bowler|Niall Beard",
+  "tags" : null
+},
+{
+  "title" : "Path to Open Platforms - new chapter for the Turing Way",
+  "year" : 2022,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw22-new-turing-way-chap.md",
+  "draft" : null,
+  "author" : "Sarah Gibson|Arielle Bennett|Morane Gruenpeter|James Byrne|Mohamed Selim|Patricia Herterich",
+  "tags" : "open-platforms|turing-way"
+},
+{
+  "title" : "How to manage expectations while juggling different projects with overlapping deadlines and competing resources?",
+  "year" : 2018,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw18-managing-expectations.md",
+  "draft" : null,
+  "author" : "Stephan Druskat|Robert Haines|Tania Allard|Mark Woodbridge|Stuart Grieve|Brigitta Sipocz|Alejandra Gonzalez-Beltran|Raquel Alegre",
+  "tags" : "rse|project|expectations"
+},
+{
+  "title" : "Easy Open Source Bio-Graphs",
+  "year" : 2022,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw22-easy-open-source-biographs.md",
+  "draft" : null,
+  "author" : "Mark Basham|Gemma Turon|Sarah Forrester|Emma Karoune|Vicky Hellon|Katy Brown",
+  "tags" : "biology|biological-sciences|open-source"
+},
+{
+  "title" : "Leo",
+  "year" : 2021,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw21-leo.md",
+  "draft" : null,
+  "author" : "Emma Rand|Aida Mehonic|Hannah Williams|Carlos Martinez|Felicity Anderson",
+  "tags" : "collaboration|project"
+},
+{
+  "title" : "Code review across projects for software sustainability",
+  "year" : 2018,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw18-sustainability-code-reviews.md",
+  "draft" : null,
+  "author" : "James Graham|Matthew Upson|Adam Jackson|Andrew Washbrook|Naomi Penfold|Rinku Gupta",
+  "tags" : "code-review|software-sustainability"
+},
+{
+  "title" : "Keeping up with the Joneses: Providing evidence for software and data citations in published papers",
+  "year" : 2018,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw18-keeping-joneses.md",
+  "draft" : null,
+  "author" : "Kirstie Whitaker|Ilektra Christidi|Andrew Walker|Shoaib Sufi",
+  "tags" : "citation|papers|evidence"
+},
+{
+  "title" : "Teaching programming to researchers across all research domains",
+  "year" : 2018,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw18-teaching-programming.md",
+  "draft" : null,
+  "author" : "Neil Chue Hong|Geraint Palmer|Eike Muller|Diana Suleimenova|Becky Arnold|Kenneth Hansen",
+  "tags" : "teaching|programming"
+},
+{
+  "title" : "How do you motivate researchers to adopt better software practices?",
+  "year" : 2019,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw19-motivating-research.md",
+  "draft" : null,
+  "author" : "Rachael Ainsworth|Jason M. Gates|Jakob S. Jørgensen|Diego Alonso-Álvarez|Cerys Lewis",
+  "tags" : null
+},
+{
+  "title" : "Guidelines for research library users and providers",
+  "year" : 2018,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw18-guidelines.md",
+  "draft" : null,
+  "author" : "Vincent Knight|Selina Aragon|Thibault Clérice|Henry Wilde|Anastasis Georgoulas|Adrian-Tudor Panescu|Aleksandra Nenadic|Tobias Schlauch|Louise Brown|Martin O'Reilly|Robert Maftei",
+  "tags" : "guidelines|metadata|libraries"
+},
+{
+  "title" : "Equitable Collaboration guide for distributed/online teams and communities in The Turing Way",
+  "year" : 2020,
+  "type" : "hack-day",
+  "filename" : "content/cw20-collaboration-turing.md",
+  "draft" : null,
+  "author" : "The Turing Way Community Members",
+  "tags" : "collaboration|turing-way"
+},
+{
+  "title" : "A \"How to cite\"/”Cite this” button for GitHub",
+  "year" : 2019,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw19-CiteThis.md",
+  "draft" : null,
+  "author" : "Stephan Druskat",
+  "tags" : null
+},
+{
+  "title" : "Improving The Turing Way",
+  "year" : 2019,
+  "type" : "hack-ideas",
+  "filename" : "content/cw19-improving-turing-way.md",
+  "draft" : null,
+  "author" : "Kirstie Whitaker",
+  "tags" : null
+},
+{
+  "title" : "Ready to deposit?",
+  "year" : 2019,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw19-Ready2deposit.md",
+  "draft" : null,
+  "author" : "Emily Bell|Dav Clark|Stephan Druskat|Robert Haines|Patrick McCann|Tom Russell",
+  "tags" : null
+},
+{
+  "title" : "How to encourage and ensure software maintenance gets sufficiently funded",
+  "year" : 2021,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw21-getting-software-maintenance-funded.md",
+  "draft" : null,
+  "author" : "Sorrel Harriet|Teri Forey|Diego Alonso-Álvarez|Heather Turner|Alexander Konovalov|Ilian Todorov",
+  "tags" : "funding"
+},
+{
+  "title" : "LibFlix",
+  "year" : 2019,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw19-netflix-recommender.md",
+  "draft" : null,
+  "author" : "Alexandra Simperler|Mario Antonioletti|Sam Mangham|Ben Krikler|Alejandra Gonzalez-Beltran|Tyler Whitehouse",
+  "tags" : null
+},
+{
+  "title" : "Hello world (of CI/CD)",
+  "year" : 2021,
+  "type" : "hack-day",
+  "filename" : "content/cw21-hello-world-of-ci-cd.md",
+  "draft" : null,
+  "author" : "Sorrel Harriet",
+  "tags" : "skills|reproducibility|ci-cd"
+},
+{
+  "title" : "Translating between programming languages",
+  "year" : 2018,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw18-different-languages.md",
+  "draft" : null,
+  "author" : "Reed Milewicz|Ann Gledson|Alexander Morley|Raquel Alegre|Mike Jackson",
+  "tags" : "research-software|training"
+},
+{
+  "title" : "Escape room: Translating between RSEs and Arts & Humanities Researchers",
+  "year" : 2021,
+  "type" : "hack-day",
+  "filename" : "content/cw21-escape-room.md",
+  "draft" : null,
+  "author" : "Laura Carter|Thibault Lestang",
+  "tags" : "interdisciplinary|training"
+},
+{
+  "title" : "DUQI (Document Utility and Quality Interrogator)",
+  "year" : 2019,
+  "type" : "collaborative-ideas",
+  "filename" : "content/cw19-duqi-prop.md",
+  "draft" : null,
+  "author" : "Douglas Lowe|Becky Arnold|Arshad Emmambux|Adam Jackson|Diego Alonso-Álvarez|Carina Haupt",
+  "tags" : null
+}
+  ]
+}

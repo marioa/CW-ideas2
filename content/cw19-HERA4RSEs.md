@@ -1,5 +1,7 @@
 ---
-title: "RSE Careers"
+title: RSE Careers
+year: 2019
+type: collaborative-ideas
 author:
 - Jason M. Gates
 - Joanna Leng
@@ -7,9 +9,7 @@ author:
 - Sarah Gibson
 - Colin Sauze
 - Alexander Konovalov
-year: 2019
-type: collaborative-ideas
-tags:
+tags: null
 ---
 ### Collaborations Workshop 2019 (CW19) #CollabW19          2019-04-01 to 2019-04-03
 

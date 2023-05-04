@@ -1,10 +1,9 @@
 ---
-title: "Automating Screenshots for Documentation"
-author:
-- Colin Sauze
+title: Automating Screenshots for Documentation
 year: 2019
 type: collaborative-ideas
-tags:
+author: Colin Sauze
+tags: null
 ---
 ### Collaborations Workshop 2019 (CW19) #CollabW19          2019-04-01 to 2019-04-03
 

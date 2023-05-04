@@ -1,17 +1,9 @@
 ---
-title: 
-author:
-- Daniel S. Katz
-- James Baker
-- Martin Donnelly
-- Melodee Beals
-- Richard Adams
-- Stephen Dowsland
+title: null
 year: 2018
 type: collaborative-ideas
-tags:
-- documentation
-- credit
+author: null
+tags: null
 ---
 
 <hr>

@@ -1,10 +1,11 @@
 ---
-title: "Enabling analysis of research software: Creating an enhanced research software corpus"
+title: 'Enabling analysis of research software: Creating an enhanced research software
+  corpus'
+year: 2021
+type: hack-day
 author:
 - Neil Chue Hong
 - Stephan Druskat
-year: 2021
-type: hack-day
 tags:
 - data-analysis
 - research

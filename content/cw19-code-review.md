@@ -1,11 +1,11 @@
 ---
-title: "Code-literate peer-review for everyone"
-author:
-- Alessandro Felder
-- Victor
+title: Code-literate peer-review for everyone
 year: 2019
 type: collaborative-ideas
-tags:
+author:
+- Alessandro Felder
+- Victor Koppejan
+tags: null
 ---
 ### **Context / Research Domain**
 

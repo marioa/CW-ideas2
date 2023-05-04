@@ -1,10 +1,9 @@
 ---
-title: "Choose-a-Visualisation"
-author:
--  Neil Chue Hong
+title: Choose-a-Visualisation
 year: 2018
 type: hack-ideas
-tags:
+author: Neil Chue Hong
+tags: null
 ---
 
 Collaborations Workshop 2018 - 2018-03-26

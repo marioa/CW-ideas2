@@ -1,13 +1,13 @@
 ---
-title: "Bursting the Bubble: Teaching PIs the value of good code"
+title: 'Bursting the Bubble: Teaching PIs the value of good code'
+year: 2021
+type: collaborative-ideas
 author:
 - Marion Weinzierl
 - Sam Harrison
 - Arielle Bennett
 - Steve Crouch
 - Mark Turner
-year: 2021
-type: collaborative-ideas
 tags:
 - guidance
 - good-practice

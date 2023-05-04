@@ -1,13 +1,13 @@
 ---
-title: "Leo"
+title: Leo
+year: 2021
+type: collaborative-ideas
 author:
 - Emma Rand
 - Aida Mehonic
 - Hannah Williams
-- Carlos Martinez-Ortiz
-- Flic Anderson
-year: 2021
-type: collaborative-ideas
+- Carlos Martinez
+- Felicity Anderson
 tags:
 - collaboration
 - project

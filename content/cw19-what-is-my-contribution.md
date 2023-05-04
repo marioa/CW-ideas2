@@ -1,5 +1,7 @@
 ---
-title: "What is my contribution"
+title: What is my contribution
+year: 2019
+type: collaborative-ideas
 author:
 - Patricia Herterich
 - Michael Allaway
@@ -7,9 +9,7 @@ author:
 - Daina Bouqui
 - Louise Brown
 - Raniere Silva
-year: 2019
-type: collaborative-ideas
-tags:
+tags: null
 ---
 ### Collaborations Workshop 2019 (CW19) #CollabW19          2019-04-01 to 2019-04-03
 
