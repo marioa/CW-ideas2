@@ -8,7 +8,8 @@ author:
 - James Baker
 - Anne Lee Steele
 - Jez Cope
-tags: glossaries
+tags:
+- glossaries
 ---
 
 ### CW22 - 2022-04-04

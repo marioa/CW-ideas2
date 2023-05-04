@@ -8,7 +8,8 @@ author:
 - Catherine Jones
 - Daniel Grose
 - David Pérez-Suárez
-tags: sustainability
+tags:
+- sustainability
 ---
 
 <hr>

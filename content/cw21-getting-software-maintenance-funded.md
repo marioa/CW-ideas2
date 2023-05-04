@@ -9,7 +9,8 @@ author:
 - Heather Turner
 - Alexander Konovalov
 - Ilian Todorov
-tags: funding
+tags:
+- funding
 ---
 
 ### CW21 - 2021-03-30
