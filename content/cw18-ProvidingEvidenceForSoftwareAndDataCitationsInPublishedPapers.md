@@ -4,7 +4,8 @@ title: 'Keeping up with the Joneses: Providing evidence for software and data ci
 year: 2018
 type: hack-ideas
 prize: 2
-author: Kirstie Whitaker
+author:
+- Kirstie Whitaker
 tags: null
 ---
 

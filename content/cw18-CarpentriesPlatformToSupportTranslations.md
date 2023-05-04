@@ -3,7 +3,8 @@ title: Carpentries platform to support translations
 year: 2018
 type: hack-ideas
 prize: 3
-author: David Pérez-Suárez
+author:
+- David Pérez-Suárez
 tags: null
 ---
 

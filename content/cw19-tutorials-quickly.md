@@ -3,7 +3,8 @@ title: Maintainable Tutorials Made Quickly
 year: 2019
 type: hack-ideas
 prize: null
-author: Adam Jackson
+author:
+- Adam Jackson
 tags: null
 ---
 ### Collaborations Workshop 2019 (CW19) #CollabW19          2019-04-01 to 2019-04-03

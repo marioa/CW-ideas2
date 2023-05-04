@@ -2,7 +2,6 @@
 
 # load packages
 library(jsonlite)
-library(yaml)
 library(ymlthis)
 
 # read in new yaml from JSON
@@ -15,23 +14,26 @@ split_items <- function(x){
 }
 
 # update old yaml with new yaml
-yml <- lapply(json, as_yml)
-for (i in seq_along(yml)){
+for (i in seq_along(json)){
+  message("Idea ", i, ": ", json[[i]]$filename)
+  # convert json to yaml
+  yml <- as_yaml(json[[i]])
+  
   # remove filename and draft if "~"
-  yml[[i]] <- yml_discard(yml[[i]], "filename")
-  if (is.null(yml[[i]]$draft)) yml[[i]] <- yml_discard(yml[[i]], "draft")
+  yml <- yml_discard(yml, "filename")
+  if (is.null(yml$draft)) yml <- yml_discard(yml, "draft")
   
   # reformat authors and tags
-  yml[[i]] <- yml_replace(yml[[i]], 
-                          author = split_items(yml[[i]]$author),
-                          tags = split_items(yml[[i]]$tags))
+  yml <- yml_replace(yml, 
+                     author = list(split_items(yml$author)),
+                     tags = list(split_items(yml$tags)))
   
   # get original content and find end of yaml header
   all_content <- readLines(json[[i]]$filename)
   end_yaml <- grep("^---$", all_content)[2]
   
   # write back to markdown
-  use_rmarkdown(.yml = yml[[i]], json[[i]]$filename,
+  use_rmarkdown(.yml = yml, yml$filename,
                 body = all_content[-seq_len(end_yaml)],
-                open_doc = FALSE, overwrite = TRUE)
+                open_doc = FALSE, overwrite = TRUE, quiet = TRUE)
 }

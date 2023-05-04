@@ -3,7 +3,8 @@ title: Choose-a-Visualisation
 year: 2018
 type: hack-ideas
 prize: null
-author: Neil Chue Hong
+author:
+- Neil Chue Hong
 tags: null
 ---
 

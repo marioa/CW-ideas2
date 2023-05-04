@@ -3,7 +3,8 @@ title: Productivity Approximator
 year: 2018
 type: hack-ideas
 prize: 1
-author: Melodee Beals
+author:
+- Melodee Beals
 tags: null
 ---
 

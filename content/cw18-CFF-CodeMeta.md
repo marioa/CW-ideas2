@@ -3,7 +3,8 @@ title: Aligning the Citation File Format and CodeMeta
 year: 2018
 type: hack-ideas
 prize: null
-author: Stephan Druskat
+author:
+- Stephan Druskat
 tags:
 - citation
 - CFF

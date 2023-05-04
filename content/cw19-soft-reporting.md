@@ -3,7 +3,8 @@ title: Software reporting guidelines
 year: 2019
 type: hack-ideas
 prize: null
-author: Alexander Konovalov
+author:
+- Alexander Konovalov
 tags: null
 ---
 ### Collaborations Workshop 2019 (CW19) #CollabW19          2019-04-01 to 2019-04-03

@@ -4,7 +4,8 @@ title: RESPIRATOR (Research Software Performance Indicators Really Acknowledging
 year: 2022
 type: hack-day
 prize: null
-author: Stephan Druskat
+author:
+- Stephan Druskat
 tags:
 - rse
 - kpi

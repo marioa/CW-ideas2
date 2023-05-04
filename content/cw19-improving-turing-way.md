@@ -3,7 +3,8 @@ title: Improving The Turing Way
 year: 2019
 type: hack-ideas
 prize: null
-author: Kirstie Whitaker
+author:
+- Kirstie Whitaker
 tags: null
 ---
 ### Collaborations Workshop 2019 (CW19) #CollabW19 

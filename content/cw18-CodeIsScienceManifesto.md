@@ -3,7 +3,8 @@ title: Code is Science Manifesto
 year: 2018
 type: hack-ideas
 prize: 3
-author: Yo Yehudi
+author:
+- Yo Yehudi
 tags: null
 ---
 
