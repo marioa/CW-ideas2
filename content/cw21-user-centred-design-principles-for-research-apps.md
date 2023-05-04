@@ -8,7 +8,8 @@ author:
 - Gary Leeming
 - Jez Cope
 - Kirsty Pringle
-tags: training
+tags:
+- training
 ---
 
 ### CW21 - 2021-03-30

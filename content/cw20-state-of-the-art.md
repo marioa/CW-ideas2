@@ -10,7 +10,8 @@ author:
 - Jonathan Frawley
 - Reka Solymosi
 - Iain Barrass
-tags: training
+tags:
+- training
 ---
 
 ### CW20 - 2020-03-31 to 2020-04-02
