@@ -3,6 +3,7 @@ title: Let’s make some better manuscript templates for the Journal of Open Res
   Software
 year: 2020
 type: hack-day
+prize: null
 author: Philipp Boersch-Supan
 tags:
 - dissemination

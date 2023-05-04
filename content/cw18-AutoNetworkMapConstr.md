@@ -2,6 +2,7 @@
 title: Automated Network Map construction
 year: 2018
 type: hack-ideas
+prize: null
 author: Diana Suleimenova
 tags:
 - network-maps

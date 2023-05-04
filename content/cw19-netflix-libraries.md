@@ -2,6 +2,7 @@
 title: Netflix of libraries
 year: 2019
 type: hack-ideas
+prize: null
 author: Ben Krikler
 tags: null
 ---

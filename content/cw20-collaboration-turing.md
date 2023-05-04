@@ -3,6 +3,7 @@ title: Equitable Collaboration guide for distributed/online teams and communitie
   in The Turing Way
 year: 2020
 type: hack-day
+prize: null
 author: The Turing Way Community Members
 tags:
 - collaboration

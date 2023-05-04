@@ -2,6 +2,7 @@
 title: The Turing Way
 year: 2020
 type: collaborative-ideas
+prize: null
 author:
 - Sarah Gibson
 - Stephan Druskat

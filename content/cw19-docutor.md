@@ -2,6 +2,7 @@
 title: The Docutor button
 year: 2019
 type: collaborative-ideas
+prize: 1
 author:
 - Cerys Lewis
 - Connah Kendrick

@@ -2,6 +2,7 @@
 title: DUQI (Document Utility and Quality Interrogator)
 year: 2019
 type: collaborative-ideas
+prize: null
 author:
 - Douglas Lowe
 - Becky Arnold

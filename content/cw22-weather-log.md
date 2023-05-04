@@ -2,6 +2,7 @@
 title: Weather Log
 year: 2022
 type: collaborative-ideas
+prize: null
 author:
 - Luke Abraham
 - Sam Harrison

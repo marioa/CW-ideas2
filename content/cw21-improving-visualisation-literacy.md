@@ -2,6 +2,7 @@
 title: Improving data visualization literacy
 year: 2021
 type: collaborative-ideas
+prize: null
 author:
 - Connie Clare
 - Louise Brown

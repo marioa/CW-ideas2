@@ -2,6 +2,7 @@
 title: A "How to cite"/”Cite this” button for GitHub
 year: 2019
 type: collaborative-ideas
+prize: null
 author: Stephan Druskat
 tags: null
 ---

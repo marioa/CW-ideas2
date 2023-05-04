@@ -1,7 +1,8 @@
 ---
 title: Online Community Cookie Cutter c<sup>3</sup>
-year: '2020'
+year: 2020
 type: collaborative-ideas
+prize: null
 author:
 - Will Furnass
 - Colin Sauze

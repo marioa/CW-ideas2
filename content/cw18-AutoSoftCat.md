@@ -2,6 +2,7 @@
 title: AutoSoftCat
 year: 2018
 type: collaborative-ideas
+prize: null
 author:
 - Dave McKain
 - Alys Brett

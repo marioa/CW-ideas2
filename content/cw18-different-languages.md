@@ -2,6 +2,7 @@
 title: Translating between programming languages
 year: 2018
 type: collaborative-ideas
+prize: null
 author:
 - Reed Milewicz
 - Ann Gledson

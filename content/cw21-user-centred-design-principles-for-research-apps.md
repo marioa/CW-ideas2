@@ -2,6 +2,7 @@
 title: User centred design principles for research apps / citizen science
 year: 2021
 type: collaborative-ideas
+prize: null
 author:
 - Jonathan Frawley
 - Gary Leeming

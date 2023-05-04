@@ -2,6 +2,7 @@
 title: Choose your own research-software adventure
 year: 2022
 type: collaborative-ideas
+prize: null
 author:
 - Chris Jochem
 - Achintya Rao

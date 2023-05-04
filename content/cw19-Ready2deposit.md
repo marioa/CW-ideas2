@@ -2,6 +2,7 @@
 title: Ready to deposit?
 year: 2019
 type: collaborative-ideas
+prize: null
 author:
 - Emily Bell
 - Dav Clark

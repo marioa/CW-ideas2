@@ -2,6 +2,7 @@
 title: Streamlining JupyterLab as a teaching tool
 year: 2018
 type: collaborative-ideas
+prize: null
 author:
 - Tania Allard
 - Matt Williams

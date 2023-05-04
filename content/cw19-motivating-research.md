@@ -2,6 +2,7 @@
 title: How do you motivate researchers to adopt better software practices?
 year: 2019
 type: collaborative-ideas
+prize: null
 author:
 - Rachael Ainsworth
 - Jason M. Gates

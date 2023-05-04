@@ -2,6 +2,7 @@
 title: 'DEPTH: Developer error/problem treasure hunt!'
 year: 2021
 type: collaborative-ideas
+prize: null
 author:
 - Matt Cannon
 - Dominic Kempf

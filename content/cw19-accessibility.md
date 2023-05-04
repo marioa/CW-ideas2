@@ -2,6 +2,7 @@
 title: Is your online training material accessible?
 year: 2019
 type: hack-ideas
+prize: null
 author: David Pérez-Suárez
 tags: null
 ---

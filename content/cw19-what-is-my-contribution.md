@@ -2,6 +2,7 @@
 title: What is my contribution
 year: 2019
 type: collaborative-ideas
+prize: null
 author:
 - Patricia Herterich
 - Michael Allaway

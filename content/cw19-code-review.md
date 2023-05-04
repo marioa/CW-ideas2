@@ -2,6 +2,7 @@
 title: Code-literate peer-review for everyone
 year: 2019
 type: collaborative-ideas
+prize: 3
 author:
 - Alessandro Felder
 - Victor Koppejan

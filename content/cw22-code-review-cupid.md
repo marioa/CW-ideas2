@@ -2,6 +2,7 @@
 title: The Code Review Cupid
 year: 2022
 type: collaborative-ideas
+prize: null
 author:
 - Sherman Lo
 - Matthew Alexandrakis

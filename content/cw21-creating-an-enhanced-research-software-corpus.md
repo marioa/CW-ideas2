@@ -3,6 +3,7 @@ title: 'Enabling analysis of research software: Creating an enhanced research so
   corpus'
 year: 2021
 type: hack-day
+prize: null
 author:
 - Neil Chue Hong
 - Stephan Druskat

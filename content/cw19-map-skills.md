@@ -2,6 +2,7 @@
 title: How to map out software and data skills lessons like Duolingo
 year: 2019
 type: collaborative-ideas
+prize: null
 author:
 - Daniel S. Katz
 - Jeremy Cohen

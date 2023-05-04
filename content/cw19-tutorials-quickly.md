@@ -2,6 +2,7 @@
 title: Maintainable Tutorials Made Quickly
 year: 2019
 type: hack-ideas
+prize: null
 author: Adam Jackson
 tags: null
 ---

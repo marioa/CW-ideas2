@@ -2,6 +2,7 @@
 title: 'Bursting the Bubble: Teaching PIs the value of good code'
 year: 2021
 type: collaborative-ideas
+prize: null
 author:
 - Marion Weinzierl
 - Sam Harrison

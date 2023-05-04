@@ -2,6 +2,7 @@
 title: How to encourage and ensure software maintenance gets sufficiently funded
 year: 2021
 type: collaborative-ideas
+prize: null
 author:
 - Sorrel Harriet
 - Teri Forey

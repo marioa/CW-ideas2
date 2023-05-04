@@ -2,6 +2,7 @@
 title: Reproducibility and Collaboration Challenges in interactive / exploratory research
 year: 2019
 type: collaborative-ideas
+prize: null
 author:
 - Adam Jackson
 - Dav Clark

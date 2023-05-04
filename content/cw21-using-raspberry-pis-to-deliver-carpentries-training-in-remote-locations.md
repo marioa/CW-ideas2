@@ -2,6 +2,7 @@
 title: Using Raspberry Pis to deliver Carpentries training in remote locations
 year: 2021
 type: hack-day
+prize: 1
 author:
 - Becca Wilson
 - Irma Hafidz

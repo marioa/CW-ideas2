@@ -2,6 +2,7 @@
 title: End of Life Plans for Software
 year: 2021
 type: collaborative-ideas
+prize: null
 author:
 - Eli Chadwick
 - Iain Barrass

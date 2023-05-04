@@ -2,6 +2,7 @@
 title: DUQI (Documentation Utility & Quality Interrogator)
 year: 2019
 type: collaborative-ideas
+prize: null
 author: Becky Arnold
 tags: null
 ---

@@ -2,6 +2,7 @@
 title: Automating Screenshots for Documentation
 year: 2019
 type: collaborative-ideas
+prize: 3
 author: Colin Sauze
 tags: null
 ---

@@ -2,6 +2,7 @@
 title: Macavity
 year: 2021
 type: collaborative-ideas
+prize: null
 author:
 - Louise Chisholm
 - Malin Sandstrom

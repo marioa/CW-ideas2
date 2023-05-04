@@ -2,6 +2,7 @@
 title: Interoperability & Continuous Integration
 year: 2019
 type: collaborative-ideas
+prize: null
 author:
 - Kirstie Whitaker
 - Mosè Giordano

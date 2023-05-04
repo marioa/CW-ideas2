@@ -2,6 +2,7 @@
 title: Sustainability Deniers
 year: 2018
 type: collaborative-ideas
+prize: null
 author:
 - Martin Callaghan
 - Alice Harpole

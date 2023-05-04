@@ -2,6 +2,7 @@
 title: GitHub annotator/failure map
 year: 2019
 type: collaborative-ideas
+prize: null
 author: Ilektra Christidi
 tags: null
 ---

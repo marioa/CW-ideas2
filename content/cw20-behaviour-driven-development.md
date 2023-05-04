@@ -2,6 +2,7 @@
 title: Adding Behaviour Driven Development to Exploratory Research Notebooks
 year: 2020
 type: collaborative-ideas
+prize: null
 author:
 - Jon Massey
 - Ben Krikler

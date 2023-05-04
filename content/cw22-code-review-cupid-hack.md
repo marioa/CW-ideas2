@@ -2,6 +2,7 @@
 title: Code Review Cupid
 year: 2022
 type: hack-day
+prize: 1
 author:
 - Felicity Anderson
 - Sherman Lo

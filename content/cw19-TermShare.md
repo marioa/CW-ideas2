@@ -2,6 +2,7 @@
 title: Terminal History Sharing
 year: 2019
 type: hack-ideas
+prize: null
 author: Jason Gates
 tags: null
 ---

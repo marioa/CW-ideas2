@@ -2,6 +2,7 @@
 title: Identify new roles within Academia
 year: 2019
 type: collaborative-ideas
+prize: null
 author:
 - Rachael Ainsworth
 - Simon Hettrick

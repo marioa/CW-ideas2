@@ -2,6 +2,7 @@
 title: SCAT (STEM Career Advising Tool)
 year: 2018
 type: collaborative-ideas
+prize: null
 author:
 - Mark Woodbridge
 - Joanna Leng

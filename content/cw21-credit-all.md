@@ -2,6 +2,7 @@
 title: Credit All
 year: 2021
 type: hack-day
+prize: null
 author:
 - Emma Karoune
 - Malin Sandstrom

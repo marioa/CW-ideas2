@@ -2,6 +2,7 @@
 title: Geospatial metadata sharing
 year: 2018
 type: hack-ideas
+prize: null
 author: Stuart Grieve
 tags: null
 ---

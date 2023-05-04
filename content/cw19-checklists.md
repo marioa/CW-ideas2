@@ -2,6 +2,7 @@
 title: Checklists for open reproducible research
 year: 2019
 type: collaborative-ideas
+prize: null
 author:
 - Anna Krystalli
 - Richard Gilham

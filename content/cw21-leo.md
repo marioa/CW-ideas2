@@ -2,6 +2,7 @@
 title: Leo
 year: 2021
 type: collaborative-ideas
+prize: null
 author:
 - Emma Rand
 - Aida Mehonic

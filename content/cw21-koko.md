@@ -2,6 +2,7 @@
 title: Koko
 year: 2021
 type: collaborative-ideas
+prize: null
 author:
 - Stephan Druskat
 - Sammie Buzzard

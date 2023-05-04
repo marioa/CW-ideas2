@@ -2,6 +2,7 @@
 title: Open Source Covid Analysis of References (OSCAR)
 year: 2021
 type: collaborative-ideas
+prize: null
 author:
 - Michelle Barker
 - Shoaib Sufi

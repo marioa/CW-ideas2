@@ -2,6 +2,7 @@
 title: Storyboarding Sustainability
 year: 2020
 type: collaborative-ideas
+prize: 1
 author:
 - Emma Rand
 - Matthew West

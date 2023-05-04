@@ -2,6 +2,7 @@
 title: Hello world (of CI/CD)
 year: 2021
 type: hack-day
+prize: null
 author: Sorrel Harriet
 tags:
 - skills

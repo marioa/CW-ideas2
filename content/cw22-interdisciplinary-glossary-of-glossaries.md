@@ -2,6 +2,7 @@
 title: Interdisciplinary Glossary of Glossaries
 year: 2022
 type: hack-day
+prize: null
 author:
 - Alison Clarke
 - Catherine Smith

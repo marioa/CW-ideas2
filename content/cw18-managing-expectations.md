@@ -3,6 +3,7 @@ title: How to manage expectations while juggling different projects with overlap
   deadlines and competing resources?
 year: 2018
 type: collaborative-ideas
+prize: null
 author:
 - Stephan Druskat
 - Robert Haines

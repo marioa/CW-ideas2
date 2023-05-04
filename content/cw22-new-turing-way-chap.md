@@ -2,6 +2,7 @@
 title: Path to Open Platforms - new chapter for the Turing Way
 year: 2022
 type: collaborative-ideas
+prize: null
 author:
 - Sarah Gibson
 - Arielle Bennett

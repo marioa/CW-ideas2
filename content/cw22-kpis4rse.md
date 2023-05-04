@@ -2,6 +2,7 @@
 title: Key Performance Indicators for Research Software Engineering Output
 year: 2022
 type: collaborative-ideas
+prize: null
 author:
 - Stephan Druskat
 - Daniel S. Katz

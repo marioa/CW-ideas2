@@ -2,6 +2,7 @@
 title: LibFlix
 year: 2019
 type: collaborative-ideas
+prize: 2
 author:
 - Alexandra Simperler
 - Mario Antonioletti

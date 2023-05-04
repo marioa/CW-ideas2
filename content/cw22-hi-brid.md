@@ -2,6 +2,7 @@
 title: Hi-Brid!
 year: 2022
 type: collaborative-ideas
+prize: null
 author:
 - Malvika Sharan
 - Hannah Williams

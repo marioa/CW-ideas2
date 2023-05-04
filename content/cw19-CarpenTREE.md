@@ -2,6 +2,7 @@
 title: CarpenTREE
 year: 2019
 type: collaborative-ideas
+prize: 1
 author:
 - Arshad Emmambux
 - Patricia Herterich

@@ -2,6 +2,7 @@
 title: Col-Laboratory
 year: 2019
 type: collaborative-ideas
+prize: null
 author: Niall Beard
 tags: null
 ---

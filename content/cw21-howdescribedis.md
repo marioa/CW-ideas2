@@ -2,6 +2,7 @@
 title: HowDescribedIs
 year: 2021
 type: hack-day
+prize: null
 author:
 - Faruk Diblen
 - Daniel Garijo

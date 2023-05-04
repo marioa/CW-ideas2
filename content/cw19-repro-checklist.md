@@ -2,6 +2,7 @@
 title: Best Practice Checklist
 year: 2019
 type: collaborative-ideas
+prize: null
 author:
 - Richard Gilham
 - Emmy Tsang

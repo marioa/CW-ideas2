@@ -2,6 +2,7 @@
 title: Creating a Lessons Roadmap and Profiency Framework for Software and Data Training
 year: 2019
 type: collaborative-ideas
+prize: null
 author:
 - Victor Koppejan
 - Jeremy Cohen

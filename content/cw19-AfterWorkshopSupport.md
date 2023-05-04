@@ -2,6 +2,7 @@
 title: Infrastructure to support following up after a workshop / training session
 year: 2019
 type: collaborative-ideas
+prize: null
 author:
 - Aleksandra Nenadic
 - Robin Long

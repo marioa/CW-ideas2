@@ -2,6 +2,7 @@
 title: ASAP - Automated Software-Assisted Provisioning
 year: 2018
 type: collaborative-ideas
+prize: null
 author:
 - Sam Cox
 - Yo Yehudi

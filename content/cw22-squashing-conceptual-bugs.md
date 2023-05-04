@@ -2,6 +2,7 @@
 title: Squashing conceptual bugs when computational bugs have been exterminated
 year: 2022
 type: collaborative-ideas
+prize: null
 author:
 - Aman Goel
 - Juncheng E

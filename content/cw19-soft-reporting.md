@@ -2,6 +2,7 @@
 title: Software reporting guidelines
 year: 2019
 type: hack-ideas
+prize: null
 author: Alexander Konovalov
 tags: null
 ---

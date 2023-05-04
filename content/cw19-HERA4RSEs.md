@@ -2,6 +2,7 @@
 title: RSE Careers
 year: 2019
 type: collaborative-ideas
+prize: null
 author:
 - Jason M. Gates
 - Joanna Leng

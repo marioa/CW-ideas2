@@ -2,6 +2,7 @@
 title: How Wrong Is The Research Code Base?
 year: 2020
 type: hack-day
+prize: null
 author: Dan Hobley
 tags:
 - software

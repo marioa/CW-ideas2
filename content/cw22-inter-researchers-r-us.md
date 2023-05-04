@@ -2,6 +2,7 @@
 title: Interdisciplinary Researchers ‘R’ Us
 year: 2022
 type: collaborative-ideas
+prize: null
 author:
 - Abhishek Dasgupta
 - David Wilby

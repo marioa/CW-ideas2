@@ -2,6 +2,7 @@
 title: Easy Open Source Bio-Graphs
 year: 2022
 type: collaborative-ideas
+prize: null
 author:
 - Mark Basham
 - Gemma Turon

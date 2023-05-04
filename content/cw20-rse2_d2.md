@@ -2,6 +2,7 @@
 title: RSE2_D2
 year: 2020
 type: collaborative-ideas
+prize: 2
 author:
 - Yo Yehudi
 - David Pérez-Suárez

@@ -2,6 +2,7 @@
 title: State of the Art
 year: 2020
 type: collaborative-ideas
+prize: null
 author:
 - Dan Hobley
 - Paddy McCann

@@ -2,6 +2,7 @@
 title: The Research Data Sandbox
 year: 2019
 type: collaborative-ideas
+prize: null
 author:
 - Sorrel Harriet
 - Melodee Beals

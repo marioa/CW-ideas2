@@ -3,6 +3,7 @@ title: 'Keeping up with the Joneses: Providing evidence for software and data ci
   in published papers'
 year: 2018
 type: collaborative-ideas
+prize: null
 author:
 - Kirstie Whitaker
 - Ilektra Christidi

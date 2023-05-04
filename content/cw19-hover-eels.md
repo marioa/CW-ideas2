@@ -2,6 +2,7 @@
 title: Hover Eels
 year: 2019
 type: collaborative-ideas
+prize: 3
 author:
 - Jakob S. Jørgensen
 - Lucy Whalley

@@ -2,6 +2,7 @@
 title: Downloading and filtering datasets
 year: 2018
 type: collaborative-ideas
+prize: null
 author:
 - Vincent Knight
 - Thibault Clérice
