@@ -1,10 +1,11 @@
 ---
 title: Carpentries-style Lesson on R’s Bug Tracking Process
+year: 2022
+type: hack-day
+prize: 3
 author:
 - Saranjeet Kaur Bhogal
 - Heather Turner
-year: 2022
-type: hack-day
 tags:
 - R
 - Carpentries

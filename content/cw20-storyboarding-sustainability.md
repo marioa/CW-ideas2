@@ -1,13 +1,14 @@
 ---
-title: "Storyboarding Sustainability"
+title: Storyboarding Sustainability
+year: 2020
+type: collaborative-ideas
+prize: 1
 author:
 - Emma Rand
 - Matthew West
 - Laurence Brown
 - Mario Antonioletti
 - Alison Clarke
-year: 2020
-type: collaborative-ideas
 tags:
 - video
 - pi

@@ -1,12 +1,13 @@
 ---
 title: Running a dugnad in a research group
+year: 2021
+type: hack-ideas
+prize: 3
 author:
 - Sarah Gibson
 - Sarah Jaffa
 - Warrick Ball
 - Neil Chue Hong
-year: 2021
-type: hack-ideas
 tags:
 - training
 - astrophysics

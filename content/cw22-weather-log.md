@@ -1,5 +1,8 @@
 ---
 title: Weather Log
+year: 2022
+type: collaborative-ideas
+prize: null
 author:
 - Luke Abraham
 - Sam Harrison
@@ -8,8 +11,6 @@ author:
 - Douglas Lowe
 - Kirsty Pringle
 - Dominic Orchard
-year: 2022
-type: collaborative-ideas
 tags:
 - weather
 - climate

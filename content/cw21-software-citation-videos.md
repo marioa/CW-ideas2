@@ -1,12 +1,13 @@
 ---
 title: Software citation videos (to understand why and how to make your software citable)
+year: 2021
+type: collaborative-ideas
+prize: null
 author:
 - Morane Gruenpeter
 - Mario Antonioletti
 - Emmy Tsang
 - Esther Plomp
-year: 2021
-type: collaborative-ideas
 tags:
 - video
 - training

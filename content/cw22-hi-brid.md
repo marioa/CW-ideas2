@@ -1,14 +1,15 @@
 ---
 title: Hi-Brid!
+year: 2022
+type: collaborative-ideas
+prize: null
 author:
 - Malvika Sharan
 - Hannah Williams
-- Neil Chue Hong 
+- Neil Chue Hong
 - Hugo Gruson
 - Adam Jackson
 - Kim Martin
-year: 2022
-type: collaborative-ideas
 tags:
 - hybrid-working
 - inclusion

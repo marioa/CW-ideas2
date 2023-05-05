@@ -1,10 +1,11 @@
 ---
-title: "DUQI (Documentation Utility & Quality Interrogator)"
-author:
-- Rebecca J Arnold
+title: DUQI (Documentation Utility & Quality Interrogator)
 year: 2019
 type: collaborative-ideas
-tags:
+prize: null
+author:
+- Becky Arnold
+tags: null
 ---
 ### Collaborations Workshop 2019 (CW19) #CollabW19 2019-04-01 to 2019-04-03
 

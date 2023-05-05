@@ -1,13 +1,14 @@
 ---
-title: "RSE2_D2"
+title: RSE2_D2
+year: 2020
+type: collaborative-ideas
+prize: 2
 author:
 - Yo Yehudi
-- David Perez-Suarez
+- David Pérez-Suárez
 - Blair Archibald
 - Marion Weinzierl
 - Vahid Garousi
-year: 2020
-type: collaborative-ideas
 tags:
 - twitter
 - training

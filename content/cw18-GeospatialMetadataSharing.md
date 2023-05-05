@@ -1,10 +1,11 @@
 ---
-title: "Geospatial metadata sharing"
-author:
-- Stuart Grieve
+title: Geospatial metadata sharing
 year: 2018
 type: hack-ideas
-tags:
+prize: null
+author:
+- Stuart Grieve
+tags: null
 ---
 
 Collaborations Workshop 2018 - 2018-03-26

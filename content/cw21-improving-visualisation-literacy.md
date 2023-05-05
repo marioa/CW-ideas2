@@ -1,13 +1,14 @@
 ---
 title: Improving data visualization literacy
+year: 2021
+type: collaborative-ideas
+prize: null
 author:
 - Connie Clare
 - Louise Brown
 - Sam Haynes
 - Will Furnass
 - Patricia Herterich
-year: 2021
-type: collaborative-ideas
 tags:
 - training
 - visualisation

@@ -1,13 +1,14 @@
 ---
-title: "Macavity"
+title: Macavity
+year: 2021
+type: collaborative-ideas
+prize: null
 author:
 - Louise Chisholm
 - Malin Sandstrom
 - Florian Mannseicher
 - Emma Karoune
 - Andrew Brown
-year: 2021
-type: collaborative-ideas
 tags:
 - rse
 - skills

@@ -1,10 +1,11 @@
 ---
-title: "Code is Science Manifesto"
-author:
-- Yo Yehudi
+title: Code is Science Manifesto
 year: 2018
 type: hack-ideas
-tags:
+prize: 3
+author:
+- Yo Yehudi
+tags: null
 ---
 
 Collaborations Workshop 2018 - 2018-03-26

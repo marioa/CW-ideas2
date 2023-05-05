@@ -1,5 +1,8 @@
 ---
-title: "Conferencing 3.0: ensuring equality for in-person and online participants"
+title: 'Conferencing 3.0: ensuring equality for in-person and online participants'
+year: 2020
+type: collaborative-ideas
+prize: 3
 author:
 - Emily Lewis
 - Esther Asef
@@ -7,8 +10,6 @@ author:
 - Bezaye Tesfaye
 - Neil Chue Hong
 - Richard Darst
-year: "2020"
-type: collaborative-ideas
 tags:
 - conference
 - collaborations-workshop

@@ -1,14 +1,15 @@
 ---
 title: State of the Art
+year: 2020
+type: collaborative-ideas
+prize: null
 author:
 - Dan Hobley
 - Paddy McCann
-- Emily Bell (chair)
-- Jonathan Frawley (scribe)
+- Emily Bell
+- Jonathan Frawley
 - Reka Solymosi
 - Iain Barrass
-year: 2020
-type: collaborative-ideas
 tags:
 - training
 ---

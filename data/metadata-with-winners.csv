@@ -1,0 +1,107 @@
+_ - title,_ - year,_ - type,_ - filename,_ - tags,_ - draft,prize,_ - author - author,_ - tags - tags
+Dealing with Legacy Code,2020,collaborative-ideas,content/cw20-legacy-code.md,,,3,Patricia Herterich|Catherine Smith|Christopher Fullerton|Raniere Silva|Philipp Boersch-Supan,legacy-code|training|reproducibility
+Open Source Covid Analysis of References (OSCAR),2021,collaborative-ideas,content/cw21-oscar.md,,,,Michelle Barker|Shoaib Sufi|Daniel S. Katz|Carina Haupt|Callum Rollo,covid|open-source
+Maintainable Tutorials Made Quickly,2019,hack-ideas,content/cw19-tutorials-quickly.md,,,,Adam Jackson,
+HowDescribedIs,2021,hack-day,content/cw21-howdescribedis.md,,,,Faruk Diblen|Daniel Garijo|Carlos Martinez|Matthew Bluteau|Paddy McCann,tool|extension|reproducibility|citation
+Netflix of libraries,2019,hack-ideas,content/cw19-netflix-libraries.md,,,,Ben Krikler,
+Keeping up with the Joneses: Providing evidence for software and data citations in published papers,2018,hack-ideas,content/cw18-ProvidingEvidenceForSoftwareAndDataCitationsInPublishedPapers.md,,,2,Kirstie Whitaker,
+Code Review Cupid,2022,hack-day,content/cw22-code-review-cupid-hack.md,,,1,Felicity Anderson|Sherman Lo|Dmitry Nikolaenko,rse|code-review
+CFF in the wild - analysing software citation metadata file usage,2022,hack-day,content/cw22-cff-in-the-wild.md,,,2,Stephan Druskat,FAIR|CFF
+Bursting the Bubble: Teaching PIs the value of good code,2021,collaborative-ideas,content/cw21-bursting-the-bubble.md,,,,Marion Weinzierl|Sam Harrison|Arielle Bennett|Steve Crouch|Mark Turner,guidance|good-practice
+Exploratory analysis of past Collaborative Ideas,2021,hack-day,content/cw21-exploratory-analysis-of-past-collaborative-ideas.md,,,,Heather Turner,collaborations-workshop|data-analysis
+GitHub annotator/failure map,2019,collaborative-ideas,content/cw19-gh-annotator.md,,,,Ilektra Christidi,
+How to map out software and data skills lessons like Duolingo,2019,collaborative-ideas,content/cw19-map-skills.md,,,,Daniel S. Katz|Jeremy Cohen|Neil Chue Hong|Olivia Mitchell|Victor Koppejan,
+Carpentries platform to support translations,2018,hack-ideas,content/cw18-CarpentriesPlatformToSupportTranslations.md,,,3,David Pérez-Suárez,
+How Wrong Is The Research Code Base?,2020,hack-day,content/cw20-code-base.md,,,,Dan Hobley,software|development
+Storyboarding Sustainability,2020,hack-day,content/cw20-storyboarding-sustainability-hack.md,,,,Emma Rand,sustainability|storyboards
+RESPIRATOR (Research Software Performance Indicators Really Acknowledging The Objective Reality),2022,hack-day,content/cw22-respirator.md,,,,Stephan Druskat,rse|kpi|metrics
+Coding Confessions,2021,hack-day,content/cw21-coding-confessions.md,,,2,Colin Sauze,workshop|training
+Sustainability Deniers,2018,collaborative-ideas,content/cw18-sustainability-deniers.md,,,,Martin Callaghan|Alice Harpole|Catherine Jones|Daniel Grose|David Pérez-Suárez,sustainability
+Checklists for open reproducible research,2019,collaborative-ideas,content/cw19-checklists.md,,,,Anna Krystalli|Richard Gilham|Emmy Tsang|David Gillespie,
+Productivity Approximator,2018,hack-ideas,content/cw18-ProductivityApproximator.md,,,1,Melodee Beals,
+Developing scenarios to help nurture Inclusive Research Leaders,2022,hack-ideas,content/cw22-inclusive-research-leaders.md,,,,Neil Chue Hong|Tracy Teal,leadership|skills|inclusion
+Terminal History Sharing,2019,hack-ideas,content/cw19-TermShare.md,,,,Jason Gates,
+Let’s make some better manuscript templates for the Journal of Open Research Software,2020,hack-day,content/cw20-improve-manuscript.md,,,,Philipp Boersch-Supan,dissemination|peer-review
+Creating a Lessons Roadmap and Profiency Framework for Software and Data Training,2019,collaborative-ideas,content/cw19-LessonsRoadmap.md,,,,Victor Koppejan|Jeremy Cohen,
+Interdisciplinary Glossary of Glossaries,2022,hack-day,content/cw22-interdisciplinary-glossary-of-glossaries.md,,,,Alison Clarke|Catherine Smith|James Baker|Anne Lee Steele|Jez Cope,glossaries
+Identify new roles within Academia,2019,collaborative-ideas,content/cw19-identify-new-roles.md,,,,Rachael Ainsworth|Simon Hettrick|Claire Wyatt|Gabriel Hanganu|Chris Mentzel,
+Online Community Cookie Cutter c<sup>3</sup>,2020,collaborative-ideas,content/cw20-cookie-cutter.md,,,,Will Furnass|Colin Sauze|Louise Bowler|Malvika Sharan|Joanna Leng|Mateusz Kuzak,training|guidance
+Carpentries-style Lesson on R’s Bug Tracking Process,2022,hack-day,content/cw22-R-lessons-bug-tracking.md,,,3,Saranjeet Kaur Bhogal|Heather Turner,R|Carpentries
+Software reporting guidelines,2019,hack-ideas,content/cw19-soft-reporting.md,,,,Alexander Konovalov,
+RSE Careers,2019,collaborative-ideas,content/cw19-HERA4RSEs.md,,,,Jason M. Gates|Joanna Leng|Catherine Smith|Sarah Gibson|Colin Sauze|Alexander Konovalov,
+Key Performance Indicators for Research Software Engineering Output,2022,collaborative-ideas,content/cw22-kpis4rse.md,,,,Stephan Druskat|Daniel S. Katz|Heather Turner|Vashti Galpin|Amal Alghamdi|Jannetta Steyn|Daniel S. Katz|James Baker|Martin Donnelly|Melodee Beals|Richard Adams|Stephen Dowsland,kpi|rse|documentation|credit
+,2018,collaborative-ideas,content/cw18-crediting-documentation.md,,,,,
+Streamlining JupyterLab as a teaching tool,2018,collaborative-ideas,content/cw18-streaming-jupyterlab.md,,,,Tania Allard|Matt Williams|Mark Dawson|Jeremy Cohen|Sam Mangham|Robin Long,jupyterlab|teaching
+What is my contribution,2019,collaborative-ideas,content/cw19-what-is-my-contribution.md,,,,Patricia Herterich|Michael Allaway|Alessandro Felder|Daina Bouqui|Louise Brown|Raniere Silva,
+DUQI (Documentation Utility & Quality Interrogator),2019,collaborative-ideas,content/cw19-duqi.md,,,,Becky Arnold,
+Aligning the Citation File Format and CodeMeta,2018,hack-ideas,content/cw18-CFF-CodeMeta.md,,,,Stephan Druskat,citation|CFF|CodeMeta
+DEPTH: Developer error/problem treasure hunt!,2021,collaborative-ideas,content/cw21-depth.md,,,,Matt Cannon|Dominic Kempf|Matthew Bluteau|Robin Wilson|Paddy McCann,training|rse
+Ticket to Data Wall Garden,2020,hack-day,content/cw20-walled-garden.md,,,,Raniere Silva,walled-garden|cloud
+Col-Laboratory,2019,collaborative-ideas,content/cw19-col-lab.md,,,,Niall Beard,
+ASAP - Automated Software-Assisted Provisioning,2018,collaborative-ideas,content/cw18-asap.md,,,,Sam Cox|Yo Yehudi|Carina Haupt|Robert Haines|Stephan Druskat|John Robinson,provisioning|checklists
+Using Raspberry Pis to deliver Carpentries training in remote locations,2021,hack-day,content/cw21-using-raspberry-pis-to-deliver-carpentries-training-in-remote-locations.md,,,1,Becca Wilson|Irma Hafidz|Alison Clarke|Talia Caplan|Jannetta Steyn,software-carpentry|training|raspberry-pi
+,2020,hack-day,content/template.md,,true,,,
+RSE2_D2,2020,collaborative-ideas,content/cw20-rse2_d2.md,,,2,Yo Yehudi|David Pérez-Suárez|Blair Archibald|Marion Weinzierl|Vahid Garousi,twitter|training|rse
+How do we facilitate effective collaboration in a virtual event?,2020,hack-day,content/cw20-facilitating-virtual-event-collab.md,,,,Emmy Tsang,virtual-event|collaboration
+Storyboarding Sustainability,2020,collaborative-ideas,content/cw20-storyboarding-sustainability.md,,,1,Emma Rand|Matthew West|Laurence Brown|Mario Antonioletti|Alison Clarke,video|pi|training
+The Turing Way,2020,collaborative-ideas,content/cw20-the-turing-way.md,,,,Sarah Gibson|Stephan Druskat|Louise Brown|Jurriaan H.Spaaks|Sam Mangham,training|remote|collaboration
+Macavity,2021,collaborative-ideas,content/cw21-macavity.md,,,,Louise Chisholm|Malin Sandstrom|Florian Mannseicher|Emma Karoune|Andrew Brown,rse|skills
+Tools to recognise underlying software infrastructure visible and funded,2021,hack-day,content/cw21-tools-to-recognise-underlying-software-infrastructure-visible-and-funded.md,,,,Louise Chisholm,credit|funding
+Automated Network Map construction,2018,hack-ideas,content/cw18-AutoNetworkMapConstr.md,,,,Diana Suleimenova,network-maps|refugees
+iFortran Linter,2018,collaborative-ideas,content/cw18-ifortran-linter.md,,,,Sammie Buzzard|Nikoleta E Glynatsi|Mark Turner|Ed Bennett|Stephen Crouch,ifortran|lint
+Code is Science Manifesto,2018,hack-ideas,content/cw18-CodeIsScienceManifesto.md,,,3,Yo Yehudi,
+Koko,2021,collaborative-ideas,content/cw21-koko.md,,,,Stephan Druskat|Sammie Buzzard|Bailey Harrington|Leyla Jael G. Castro|Abhishek Dasgupta,skills|training
+Automating Screenshots for Documentation,2019,collaborative-ideas,content/cw19-AutomatingScreenshots.md,,,3,Colin Sauze,
+Hi-Brid!,2022,collaborative-ideas,content/cw22-hi-brid.md,,,,Malvika Sharan|Hannah Williams|Neil Chue Hong|Hugo Gruson|Adam Jackson|Kim Martin,hybrid-working|inclusion
+Choose your own research-software adventure,2022,collaborative-ideas,content/cw22-adventure.md,,,,Chris Jochem|Achintya Rao,research-adventure|research-journey
+AutoSoftCat,2018,collaborative-ideas,content/cw18-AutoSoftCat.md,,,,Dave McKain|Alys Brett|Alexander Struck|Carloine Jay,discoverability|reuse|collaboration|api
+End of Life Plans for Software,2021,collaborative-ideas,content/cw21-assure-software-sustainability.md,,,,Eli Chadwick|Iain Barrass|Alice Minotto|Yo Yehudi,sustainability|reproducibility
+Weather Log,2022,collaborative-ideas,content/cw22-weather-log.md,,,,Luke Abraham|Sam Harrison|Sadie Bartholomew|David Pérez-Suárez|Douglas Lowe|Kirsty Pringle|Dominic Orchard,weather|climate|models
+Squashing conceptual bugs when computational bugs have been exterminated,2022,collaborative-ideas,content/cw22-squashing-conceptual-bugs.md,,,,Aman Goel|Juncheng E|Iain Barrass|Jesper Dramsch|Eli Chadwick|Jiada Tu,good-practice|conceptual-bugs
+State of the Art,2020,collaborative-ideas,content/cw20-state-of-the-art.md,,,,Dan Hobley|Paddy McCann|Emily Bell|Jonathan Frawley|Reka Solymosi|Iain Barrass,training
+Hover Eels,2019,collaborative-ideas,content/cw19-hover-eels.md,,,3,Jakob S. Jørgensen|Lucy Whalley|David Pérez-Suárez|Sarah Stewart|Benjamin Lee,
+Code-literate peer-review for everyone,2019,collaborative-ideas,content/cw19-code-review.md,,,3,Alessandro Felder|Victor Koppejan,
+Reproducibility and Collaboration Challenges in interactive / exploratory research,2019,collaborative-ideas,content/cw19-repro-challenges.md,,,,Adam Jackson|Dav Clark|Adam Jackson|Becky Arnold|Ben Krikler|Joanna Leng,
+Downloading and filtering datasets,2018,collaborative-ideas,content/cw18-downloading-filtering-data.md,,,,Vincent Knight|Thibault Clérice|Henry Wilde|Anastasis Georgoulas|Adrian-Tudor Panescu|Aleksandra Nenadic|Tobias Schlauch|Louise Brown|Martin O'Reilly|Robert Maftei,data|download|filter
+Improving data visualization literacy,2021,collaborative-ideas,content/cw21-improving-visualisation-literacy.md,,,,Connie Clare|Louise Brown|Sam Haynes|Will Furnass|Patricia Herterich,training|visualisation
+Interdisciplinary Researchers ‘R’ Us,2022,collaborative-ideas,content/cw22-inter-researchers-r-us.md,,,,Abhishek Dasgupta|David Wilby|Ben Krikler|Nadine Spychala|Yo Yehudi|Yadira Sanchez|Colin Sauze,registry|rse
+Message in e-Bottle: work more effectively with ephemeral teams across timezones,2020,collaborative-ideas,content/cw20-message-in-eBottle.md,,,,Shoaib Sufi|Carlos Martinez|Alessandro Felder|Emmy Tsang|Aleksandra Nenadic,team-work|collaboration
+Choose-a-Visualisation,2018,hack-ideas,content/cw18-choose-a-Visualisation.md,,,,Neil Chue Hong,
+Best Practice Checklist,2019,collaborative-ideas,content/cw19-repro-checklist.md,,,,Richard Gilham|Emmy Tsang|Anna Krystalli|David Gillespie,
+Geospatial metadata sharing,2018,hack-ideas,content/cw18-GeospatialMetadataSharing.md,,,,Stuart Grieve,
+Infrastructure to support following up after a workshop / training session,2019,collaborative-ideas,content/cw19-AfterWorkshopSupport.md,,,,Aleksandra Nenadic|Robin Long|Louise Bowler|Jess Ward|Ilektra Christidi|James Graham,
+Software citation videos (to understand why and how to make your software citable),2021,collaborative-ideas,content/cw21-software-citation-videos.md,,,,Morane Gruenpeter|Mario Antonioletti|Emmy Tsang|Esther Plomp,video|training|citation
+Enabling analysis of research software: Creating an enhanced research software corpus,2021,hack-day,content/cw21-creating-an-enhanced-research-software-corpus.md,,,,Neil Chue Hong|Stephan Druskat,data-analysis|research
+The Research Data Sandbox,2019,collaborative-ideas,content/cw19-research-data-sandbox.md,,,,Sorrel Harriet|Melodee Beals|Lucia Michielin|Steve Crouch|Mosè Giordano,
+SCAT (STEM Career Advising Tool),2018,collaborative-ideas,content/cw18-scat.md,,,,Mark Woodbridge|Joanna Leng|Alexander Konovalov,stem|tool
+Conferencing 3.0: ensuring equality for in-person and online participants,2020,collaborative-ideas,content/cw20-conferencing3.0.md,,,3,Emily Lewis|Esther Asef|Radovan Bast|Bezaye Tesfaye|Neil Chue Hong|Richard Darst,conference|collaborations-workshop|covid
+Running a dugnad in a research group,2021,hack-ideas,content/cw21-running-a-dugnad-in-rg.md,,,3,Sarah Gibson|Sarah Jaffa|Warrick Ball|Neil Chue Hong,training|astrophysics
+Does grade inflation exist?,2020,collaborative-ideas,content/cw20-grade-inflation.md,,,,Jez Cope|Philip Grylls|Pablo Bernabeu|Frances Cooper|Tania Allard,research|data-analysis
+The Code Review Cupid,2022,collaborative-ideas,content/cw22-code-review-cupid.md,,,,Sherman Lo|Matthew Alexandrakis|Dmitry Nikolaenko|Felicity Anderson|Matthew Bluteau|Mario Antonioletti,rse|code-review
+The Docutor button,2019,collaborative-ideas,content/cw19-docutor.md,,,1,Cerys Lewis|Connah Kendrick|Kirstie Whitaker|Adrian Castravete,
+Adding Behaviour Driven Development to Exploratory Research Notebooks,2020,collaborative-ideas,content/cw20-behaviour-driven-development.md,,,,Jon Massey|Ben Krikler|Anastasis Georgoulas|Matthew Bluteau|Steve Crouch,notebooks|testing
+Is your online training material accessible?,2019,hack-ideas,content/cw19-accessibility.md,,,,David Pérez-Suárez,
+Slack overflow: getting permanent docs from instant messaging,2019,hack-ideas,content/cw19-docs-from-messaging.md,,,,Ben Krikler,
+Credit All,2021,hack-day,content/cw21-credit-all.md,,,,Emma Karoune|Malin Sandstrom,credit|tool
+Interoperability & Continuous Integration,2019,collaborative-ideas,content/cw19-interoperability-integration.md,,,,Kirstie Whitaker|Mosè Giordano|Richard Gilham|Aleksandra Nenadic|Alexander Konovalov|Adrian Castravete,
+User centred design principles for research apps / citizen science,2021,collaborative-ideas,content/cw21-user-centred-design-principles-for-research-apps.md,,,,Jonathan Frawley|Gary Leeming|Jez Cope|Kirsty Pringle,training
+CarpenTREE,2019,collaborative-ideas,content/cw19-CarpenTREE.md,,,1,Arshad Emmambux|Patricia Herterich|Victor Koppejan|Louise Bowler|Niall Beard,
+Path to Open Platforms - new chapter for the Turing Way,2022,collaborative-ideas,content/cw22-new-turing-way-chap.md,,,,Sarah Gibson|Arielle Bennett|Morane Gruenpeter|James Byrne|Mohamed Selim|Patricia Herterich,open-platforms|turing-way
+How to manage expectations while juggling different projects with overlapping deadlines and competing resources?,2018,collaborative-ideas,content/cw18-managing-expectations.md,,,,Stephan Druskat|Robert Haines|Tania Allard|Mark Woodbridge|Stuart Grieve|Brigitta Sipocz|Alejandra Gonzalez-Beltran|Raquel Alegre,rse|project|expectations
+Easy Open Source Bio-Graphs,2022,collaborative-ideas,content/cw22-easy-open-source-biographs.md,,,,Mark Basham|Gemma Turon|Sarah Forrester|Emma Karoune|Vicky Hellon|Katy Brown,biology|biological-sciences|open-source
+Leo,2021,collaborative-ideas,content/cw21-leo.md,,,,Emma Rand|Aida Mehonic|Hannah Williams|Carlos Martinez|Felicity Anderson,collaboration|project
+Code review across projects for software sustainability,2018,collaborative-ideas,content/cw18-sustainability-code-reviews.md,,,,James Graham|Matthew Upson|Adam Jackson|Andrew Washbrook|Naomi Penfold|Rinku Gupta,code-review|software-sustainability
+Keeping up with the Joneses: Providing evidence for software and data citations in published papers,2018,collaborative-ideas,content/cw18-keeping-joneses.md,,,,Kirstie Whitaker|Ilektra Christidi|Andrew Walker|Shoaib Sufi,citation|papers|evidence
+Teaching programming to researchers across all research domains,2018,collaborative-ideas,content/cw18-teaching-programming.md,,,,Neil Chue Hong|Geraint Palmer|Eike Muller|Diana Suleimenova|Becky Arnold|Kenneth Hansen,teaching|programming
+How do you motivate researchers to adopt better software practices?,2019,collaborative-ideas,content/cw19-motivating-research.md,,,,Rachael Ainsworth|Jason M. Gates|Jakob S. Jørgensen|Diego Alonso-Álvarez|Cerys Lewis,
+Guidelines for research library users and providers,2018,collaborative-ideas,content/cw18-guidelines.md,,,,Vincent Knight|Selina Aragon|Thibault Clérice|Henry Wilde|Anastasis Georgoulas|Adrian-Tudor Panescu|Aleksandra Nenadic|Tobias Schlauch|Louise Brown|Martin O'Reilly|Robert Maftei,guidelines|metadata|libraries
+Equitable Collaboration guide for distributed/online teams and communities in The Turing Way,2020,hack-day,content/cw20-collaboration-turing.md,,,,The Turing Way Community Members,collaboration|turing-way
+"A ""How to cite""/”Cite this” button for GitHub",2019,collaborative-ideas,content/cw19-CiteThis.md,,,,Stephan Druskat,
+Improving The Turing Way,2019,hack-ideas,content/cw19-improving-turing-way.md,,,,Kirstie Whitaker,
+Ready to deposit?,2019,collaborative-ideas,content/cw19-Ready2deposit.md,,,,Emily Bell|Dav Clark|Stephan Druskat|Robert Haines|Patrick McCann|Tom Russell,
+How to encourage and ensure software maintenance gets sufficiently funded,2021,collaborative-ideas,content/cw21-getting-software-maintenance-funded.md,,,,Sorrel Harriet|Teri Forey|Diego Alonso-Álvarez|Heather Turner|Alexander Konovalov|Ilian Todorov,funding
+LibFlix,2019,collaborative-ideas,content/cw19-netflix-recommender.md,,,2,Alexandra Simperler|Mario Antonioletti|Sam Mangham|Ben Krikler|Alejandra Gonzalez-Beltran|Tyler Whitehouse,
+Hello world (of CI/CD),2021,hack-day,content/cw21-hello-world-of-ci-cd.md,,,,Sorrel Harriet,skills|reproducibility|ci-cd
+Translating between programming languages,2018,collaborative-ideas,content/cw18-different-languages.md,,,,Reed Milewicz|Ann Gledson|Alexander Morley|Raquel Alegre|Mike Jackson,research-software|training
+Escape room: Translating between RSEs and Arts & Humanities Researchers,2021,hack-day,content/cw21-escape-room.md,,,,Laura Carter|Thibault Lestang,interdisciplinary|training
+DUQI (Document Utility and Quality Interrogator),2019,collaborative-ideas,content/cw19-duqi-prop.md,,,,Douglas Lowe|Becky Arnold|Arshad Emmambux|Adam Jackson|Diego Alonso-Álvarez|Carina Haupt,

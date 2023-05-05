@@ -1,13 +1,14 @@
 ---
 title: Translating between programming languages
+year: 2018
+type: collaborative-ideas
+prize: null
 author:
 - Reed Milewicz
 - Ann Gledson
 - Alexander Morley
 - Raquel Alegre
 - Mike Jackson
-year: 2018
-type: collaborative-ideas
 tags:
 - research-software
 - training

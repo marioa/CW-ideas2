@@ -1,14 +1,15 @@
 ---
 title: How to encourage and ensure software maintenance gets sufficiently funded
+year: 2021
+type: collaborative-ideas
+prize: null
 author:
 - Sorrel Harriet
 - Teri Forey
-- Diego Alonso Álvarez
+- Diego Alonso-Álvarez
 - Heather Turner
 - Alexander Konovalov
 - Ilian Todorov
-year: 2021
-type: collaborative-ideas
 tags:
 - funding
 ---

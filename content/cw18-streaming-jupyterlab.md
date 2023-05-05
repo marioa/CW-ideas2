@@ -1,5 +1,8 @@
 ---
 title: Streamlining JupyterLab as a teaching tool
+year: 2018
+type: collaborative-ideas
+prize: null
 author:
 - Tania Allard
 - Matt Williams
@@ -7,8 +10,6 @@ author:
 - Jeremy Cohen
 - Sam Mangham
 - Robin Long
-year: 2018
-type: collaborative-ideas
 tags:
 - jupyterlab
 - teaching

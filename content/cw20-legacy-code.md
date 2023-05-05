@@ -1,13 +1,14 @@
 ---
-title: "Dealing with Legacy Code"
+title: Dealing with Legacy Code
+year: 2020
+type: collaborative-ideas
+prize: 3
 author:
-- Patricia Herterich 
-- Cat Smith 
+- Patricia Herterich
+- Catherine Smith
 - Christopher Fullerton
 - Raniere Silva
 - Philipp Boersch-Supan
-year: 2020
-type: collaborative-ideas
 tags:
 - legacy-code
 - training

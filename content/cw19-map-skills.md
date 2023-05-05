@@ -1,14 +1,15 @@
 ---
-title: "How to map out software and data skills lessons like Duolingo"
+title: How to map out software and data skills lessons like Duolingo
+year: 2019
+type: collaborative-ideas
+prize: null
 author:
-- Dan Katz
+- Daniel S. Katz
 - Jeremy Cohen
 - Neil Chue Hong
 - Olivia Mitchell
 - Victor Koppejan
-year: 2019
-type: collaborative-ideas
-tags:
+tags: null
 ---
 ### Collaborations Workshop 2019 (CW19) #CollabW19          2019-04-01 to 2019-04-03
 

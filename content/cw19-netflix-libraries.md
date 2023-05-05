@@ -1,10 +1,11 @@
 ---
-title: "Netflix of libraries"
-author:
-- Ben Krinkler
+title: Netflix of libraries
 year: 2019
 type: hack-ideas
-tags:
+prize: null
+author:
+- Ben Krikler
+tags: null
 ---
 ### Collaborations Workshop 2019 (CW19) #CollabW19          2019-04-01 to 2019-04-03
 

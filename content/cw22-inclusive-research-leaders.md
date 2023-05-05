@@ -1,14 +1,15 @@
 ---
 title: Developing scenarios to help nurture Inclusive Research Leaders
-author:
--  Neil Chue Hong
--  Tracy Teal
 year: 2022
 type: hack-ideas
+prize: null
+author:
+- Neil Chue Hong
+- Tracy Teal
 tags:
 - leadership
 - skills
-- inclusive
+- inclusion
 ---
 
 

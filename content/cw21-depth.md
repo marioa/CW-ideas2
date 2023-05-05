@@ -1,13 +1,14 @@
 ---
-title: "DEPTH: Developer error/problem treasure hunt!"
+title: 'DEPTH: Developer error/problem treasure hunt!'
+year: 2021
+type: collaborative-ideas
+prize: null
 author:
 - Matt Cannon
 - Dominic Kempf
 - Matthew Bluteau
-- Robin Wilson 
+- Robin Wilson
 - Paddy McCann
-year: 2021
-type: collaborative-ideas
 tags:
 - training
 - rse

@@ -1,5 +1,8 @@
 ---
-title: "ASAP - Automated Software-Assisted Provisioning"
+title: ASAP - Automated Software-Assisted Provisioning
+year: 2018
+type: collaborative-ideas
+prize: null
 author:
 - Sam Cox
 - Yo Yehudi
@@ -7,8 +10,6 @@ author:
 - Robert Haines
 - Stephan Druskat
 - John Robinson
-year: 2018
-type: collaborative-ideas
 tags:
 - provisioning
 - checklists

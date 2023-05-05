@@ -1,14 +1,15 @@
 ---
-title: "How do you motivate researchers to adopt better software practices?"
+title: How do you motivate researchers to adopt better software practices?
+year: 2019
+type: collaborative-ideas
+prize: null
 author:
 - Rachael Ainsworth
 - Jason M. Gates
 - Jakob S. Jørgensen
 - Diego Alonso-Álvarez
 - Cerys Lewis
-year: 2019
-type: collaborative-ideas
-tags:
+tags: null
 ---
 ### Collaborations Workshop 2019 (CW19) #CollabW19          2019-04-01 to 2019-04-03
 

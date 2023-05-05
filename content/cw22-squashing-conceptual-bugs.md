@@ -1,5 +1,8 @@
 ---
 title: Squashing conceptual bugs when computational bugs have been exterminated
+year: 2022
+type: collaborative-ideas
+prize: null
 author:
 - Aman Goel
 - Juncheng E
@@ -7,8 +10,6 @@ author:
 - Jesper Dramsch
 - Eli Chadwick
 - Jiada Tu
-year: 2022
-type: collaborative-ideas
 tags:
 - good-practice
 - conceptual-bugs

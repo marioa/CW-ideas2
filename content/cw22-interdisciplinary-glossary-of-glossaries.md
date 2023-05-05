@@ -1,14 +1,15 @@
 ---
 title: Interdisciplinary Glossary of Glossaries
+year: 2022
+type: hack-day
+prize: null
 author:
 - Alison Clarke
 - Catherine Smith
 - James Baker
 - Anne Lee Steele
-- Jez Copecw
-year: 2022
-type: hack-day
-tags: 
+- Jez Cope
+tags:
 - glossaries
 ---
 

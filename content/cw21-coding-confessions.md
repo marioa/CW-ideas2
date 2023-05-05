@@ -1,9 +1,10 @@
 ---
 title: Coding Confessions
-author:
-- Colin Sauze
 year: 2021
 type: hack-day
+prize: 2
+author:
+- Colin Sauze
 tags:
 - workshop
 - training

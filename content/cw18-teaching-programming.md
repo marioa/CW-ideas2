@@ -1,5 +1,8 @@
 ---
 title: Teaching programming to researchers across all research domains
+year: 2018
+type: collaborative-ideas
+prize: null
 author:
 - Neil Chue Hong
 - Geraint Palmer
@@ -7,8 +10,6 @@ author:
 - Diana Suleimenova
 - Becky Arnold
 - Kenneth Hansen
-year: 2018
-type: collaborative-ideas
 tags:
 - teaching
 - programming

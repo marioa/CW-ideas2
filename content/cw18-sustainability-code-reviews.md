@@ -1,5 +1,8 @@
 ---
 title: Code review across projects for software sustainability
+year: 2018
+type: collaborative-ideas
+prize: null
 author:
 - James Graham
 - Matthew Upson
@@ -7,10 +10,8 @@ author:
 - Andrew Washbrook
 - Naomi Penfold
 - Rinku Gupta
-year: 2018
-type: collaborative-ideas
 tags:
-- code-reviews
+- code-review
 - software-sustainability
 ---
 

@@ -1,5 +1,10 @@
 ---
-title: 
+title: |+
+  Crediting Super Awesome Documentation to get Research Software Certification
+
+year: 2018
+type: collaborative-ideas
+prize: null
 author:
 - Daniel S. Katz
 - James Baker
@@ -7,8 +12,6 @@ author:
 - Melodee Beals
 - Richard Adams
 - Stephen Dowsland
-year: 2018
-type: collaborative-ideas
 tags:
 - documentation
 - credit

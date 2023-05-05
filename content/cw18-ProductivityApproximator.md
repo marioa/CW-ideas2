@@ -1,10 +1,11 @@
-﻿---
-title: "Productivity Approximator"
-author:
-- M. H. Beals
+---
+title: Productivity Approximator
 year: 2018
 type: hack-ideas
-tags:
+prize: 1
+author:
+- Melodee Beals
+tags: null
 ---
 
 Collaborations Workshop 2018 - 2018-03-26

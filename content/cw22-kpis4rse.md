@@ -1,17 +1,26 @@
 ---
 title: Key Performance Indicators for Research Software Engineering Output
-author:
--  Stephan Druskat
--  Daniel S. Katz
--  Heather Turner
--  Vashti Galpin
--  Amal Alghamdi
--  Jannetta Steyn
 year: 2022
 type: collaborative-ideas
+prize: null
+author:
+- Stephan Druskat
+- Daniel S. Katz
+- Heather Turner
+- Vashti Galpin
+- Amal Alghamdi
+- Jannetta Steyn
+- Daniel S. Katz
+- James Baker
+- Martin Donnelly
+- Melodee Beals
+- Richard Adams
+- Stephen Dowsland
 tags:
 - kpi
 - rse
+- documentation
+- credit
 ---
 
 ### CW22 - 2022-04-04

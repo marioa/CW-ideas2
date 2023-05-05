@@ -1,10 +1,12 @@
-﻿---
-title: "Keeping up with the Joneses: Providing evidence for software and data citations in published papers"
-author:
-- Kirstie Whitaker
+---
+title: 'Keeping up with the Joneses: Providing evidence for software and data citations
+  in published papers'
 year: 2018
 type: hack-ideas
-tags:
+prize: 2
+author:
+- Kirstie Whitaker
+tags: null
 ---
 
 Collaborations Workshop 2018 - 2018-03-26

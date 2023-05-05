@@ -1,9 +1,11 @@
 ---
-title: Let’s make some better manuscript templates for the Journal of Open Research Software
-author:
-- Philipp Boersch-Supan 
+title: Let’s make some better manuscript templates for the Journal of Open Research
+  Software
 year: 2020
 type: hack-day
+prize: null
+author:
+- Philipp Boersch-Supan
 tags:
 - dissemination
 - peer-review

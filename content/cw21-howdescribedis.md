@@ -1,13 +1,14 @@
 ---
 title: HowDescribedIs
+year: 2021
+type: hack-day
+prize: null
 author:
 - Faruk Diblen
 - Daniel Garijo
 - Carlos Martinez
-- Mathew Bluteau
+- Matthew Bluteau
 - Paddy McCann
-year: 2021
-type: hack-day
 tags:
 - tool
 - extension

@@ -1,13 +1,14 @@
 ---
 title: iFortran Linter
+year: 2018
+type: collaborative-ideas
+prize: null
 author:
 - Sammie Buzzard
 - Nikoleta E Glynatsi
 - Mark Turner
 - Ed Bennett
 - Stephen Crouch
-year: 2018
-type: collaborative-ideas
 tags:
 - ifortran
 - lint

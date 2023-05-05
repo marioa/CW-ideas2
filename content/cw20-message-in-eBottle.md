@@ -1,13 +1,14 @@
 ---
-title: "Message in e-Bottle: work more effectively with ephemeral teams across timezones"
-author:
-- Shoaib Sufi 
-- Carlos Martinez 
-- Alessandro Felder 
-- Emmy Tsang 
-- Aleksandra Nenadic 
+title: 'Message in e-Bottle: work more effectively with ephemeral teams across timezones'
 year: 2020
 type: collaborative-ideas
+prize: null
+author:
+- Shoaib Sufi
+- Carlos Martinez
+- Alessandro Felder
+- Emmy Tsang
+- Aleksandra Nenadic
 tags:
 - team-work
 - collaboration

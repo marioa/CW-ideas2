@@ -1,5 +1,8 @@
 ---
 title: Path to Open Platforms - new chapter for the Turing Way
+year: 2022
+type: collaborative-ideas
+prize: null
 author:
 - Sarah Gibson
 - Arielle Bennett
@@ -7,8 +10,6 @@ author:
 - James Byrne
 - Mohamed Selim
 - Patricia Herterich
-year: 2022
-type: collaborative-ideas
 tags:
 - open-platforms
 - turing-way

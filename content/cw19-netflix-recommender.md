@@ -1,5 +1,8 @@
 ---
-title: "LibFlix"
+title: LibFlix
+year: 2019
+type: collaborative-ideas
+prize: 2
 author:
 - Alexandra Simperler
 - Mario Antonioletti
@@ -7,9 +10,7 @@ author:
 - Ben Krikler
 - Alejandra Gonzalez-Beltran
 - Tyler Whitehouse
-year: 2019
-type: collaborative-ideas
-tags:
+tags: null
 ---
 ### Collaborations Workshop 2019 (CW19) #CollabW19          2019-04-01 to 2019-04-03
 

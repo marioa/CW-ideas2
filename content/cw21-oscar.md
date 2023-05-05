@@ -1,13 +1,14 @@
 ---
-title: "Open Source Covid Analysis of References (OSCAR)"
-author:
-- Michelle Barker
-- Shoaib Suf
-- Daniel S Katz
-- Carina Haupt
-- Callum Rollo
+title: Open Source Covid Analysis of References (OSCAR)
 year: 2021
 type: collaborative-ideas
+prize: null
+author:
+- Michelle Barker
+- Shoaib Sufi
+- Daniel S. Katz
+- Carina Haupt
+- Callum Rollo
 tags:
 - covid
 - open-source

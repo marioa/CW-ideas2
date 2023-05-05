@@ -1,9 +1,10 @@
 ---
 title: Hello world (of CI/CD)
-author:
-- Sorrel Harriet
 year: 2021
 type: hack-day
+prize: null
+author:
+- Sorrel Harriet
 tags:
 - skills
 - reproducibility

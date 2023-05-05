@@ -1,9 +1,10 @@
 ---
 title: CFF in the wild - analysing software citation metadata file usage
-author:
-- Stephan Druskat
 year: 2022
 type: hack-day
+prize: 2
+author:
+- Stephan Druskat
 tags:
 - FAIR
 - CFF
